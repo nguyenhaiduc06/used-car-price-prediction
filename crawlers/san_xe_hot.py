@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 from utils import *
+from collections import defaultdict
 
 DATA_PATH = "data/san_xe_hot"
 PATH_TO_CARS = DATA_PATH + "/cars.csv"
@@ -12,24 +13,22 @@ PATH_TO_LINKS = DATA_PATH + "/links.csv"
 class SanXeHotCrawler(Crawler):
     def crawl(self):
         """crawl cars data and save to csv file"""
-        cars_df = create_empty_cars_df()
-        links_df = self.getLinks()
+        links = self.getLinks()
+        cars = []
+         
+        for link in links:
+            car_data = self.get_car_data(link)
+            cars.append(car_data)
 
-        for index, row in links_df.iterrows():
-            link = row["link"]
-            car_df = self.get_car_df(link)
-            cars_df = pd.concat([cars_df, car_df], ignore_index=True)
-
+        cars_df = pd.DataFrame.from_records(cars)
         cars_df.to_csv(PATH_TO_CARS)
 
     def getLinks(self):
-        """
-        Returns:
-            DataFrame: a DataFrame with at least a "link" column
-        """
         try:
             links_df = pd.read_csv(PATH_TO_LINKS)
-            return links_df
+            links = links_df[0].values.tolist()
+            if links:
+                return links
         except:
             pass
 
@@ -41,7 +40,7 @@ class SanXeHotCrawler(Crawler):
         ]
 
         for url in url_list:
-            res = self.requests_session.get(url).text
+            res = requests.get(url).text
             soup = BeautifulSoup(res, "html.parser")
             table_selector = "body > main > div.section > div > div > div.col.m7.s12 > div > div > section.car > ul"
             lis = soup.select(table_selector)[0].find_all("li")
@@ -59,24 +58,37 @@ class SanXeHotCrawler(Crawler):
         links_df = pd.DataFrame(links)
         links_df.to_csv(PATH_TO_LINKS)
 
-        return links_df
+        return links["link"]
 
-    def get_car_df(self, link):
+    def get_car_data(self, link):
+
         """
         Args:
             link (str): link to the detail page of a car
 
         Returns:
-            DataFrame: a DataFrame with 1 row - a record of a car
+            Car Data: a record of a car
         """
+        car = {}
 
-        # TODO: implement logic for extracting car features from a link
-        # use requests.get to get html content
-        # html = requests.get(link).text
+        url = 'https://www.sanxehot.vn/' + link
+        res = requests.get(url).text
+        soup = BeautifulSoup(res, "html.parser")
 
-        # use BeautifulSoup to parse html and extract data using css selector
-        # soup = BeautifulSoup(html, "html.parser")
+        brand = soup.find("h1", class_="name").find().text
+        car["brand"] = brand
+        
+        name = soup.find("h1", class_="name").find().next_sibling.text
+        car["name"] = name
 
-        brand = "Brand name"
+        table = soup.find("table", class_="info")
 
-        return create_car_df_from_features(brand=brand)
+        price = table.find_all("tr")[0].text
+        car["price"] = price
+
+        for tr in table.find_all("tr")[1:]:
+            key = tr.find_all("td")[0].text
+            value = tr.find_all("td")[1].text
+            car[key] = value
+
+        return car
