@@ -1,12 +1,12 @@
-from crawler import Crawler
+from crawlers.crawler import Crawler
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from utils import *
 
 DATA_PATH = "data/xe_tot"
 PATH_TO_LINKS = DATA_PATH + "/links.csv"
-PATH_TO_CARS = DATA_PATH + "/raw_cars.csv"
+PATH_TO_RAW_CARS = DATA_PATH + "/raw_cars.csv"
+PATH_TO_STD_CARS = DATA_PATH + "/std_cars.csv"
 BASE_URL = "https://xetot.com"
 
 
@@ -20,16 +20,16 @@ class XeTotCrawler(Crawler):
             res = requests.get(link).text
             soup = BeautifulSoup(res, "html.parser")
             tableSelector = ".product-info > .list-unstyled"
-            liTags = soup.select(tableSelector)[0].find_all('li')
+            liTags = soup.select(tableSelector)[0].find_all("li")
             car = {}
             for liTag in liTags:
-                feature = liTag.find_all('div', class_="info-label")[0].text.strip()
-                value = liTag.find_all('div', class_="info-show")[0].text.strip()
+                feature = liTag.find_all("div", class_="info-label")[0].text.strip()
+                value = liTag.find_all("div", class_="info-show")[0].text.strip()
                 car[feature] = value
             cars.append(car)
 
         cars_df = pd.DataFrame.from_records(cars)
-        cars_df.to_csv(PATH_TO_CARS)
+        cars_df.to_csv(PATH_TO_RAW_CARS)
 
     def get_links(self):
         try:
@@ -44,7 +44,7 @@ class XeTotCrawler(Crawler):
 
         page_urls = [
             "https://xetot.com/toan-quoc/mua-ban-oto?page=" + str(i)
-            for i in range(1, 2) # TODO: change range to 1, 100 depend on page data
+            for i in range(1, 2)  # TODO: change range to 1, 100 depend on page data
         ]
 
         for page_url in page_urls:
@@ -54,7 +54,7 @@ class XeTotCrawler(Crawler):
             ul = soup.select(ulSelector)[0]
             aTags = ul.find_all("a", class_="item-title")
 
-            links += [BASE_URL + a['href'] for a in aTags]
+            links += [BASE_URL + a["href"] for a in aTags]
 
         links_df = pd.DataFrame(links)
 
@@ -62,3 +62,8 @@ class XeTotCrawler(Crawler):
         links_df.to_csv(PATH_TO_LINKS)
 
         return links
+
+    def preprocess(self):
+        cars_df = pd.read_csv(PATH_TO_RAW_CARS)
+        cars_df.rename(columns={"Hãng xe": "brand"})
+        cars_df.to_csv(PATH_TO_STD_CARS)
