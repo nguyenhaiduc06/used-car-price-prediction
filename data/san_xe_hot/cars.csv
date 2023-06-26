@@ -1,11 +1,991 @@
-,brand
-0,Brand name
-1,Brand name
-2,Brand name
-3,Brand name
-4,Brand name
-5,Brand name
-6,Brand name
-7,Brand name
-8,Brand name
-9,Brand name
+,brand,name,price,Dòng xe:,Năm sản xuất:,Số km đã đi:,Động cơ:,Hộp số:,Xuất xứ:,Màu sắc:
+0,Mercedes-Benz, Mercedes - Benz class,55 triệu,Mercedes-Benz C-class,Trước 1980,0,Xăng ,Số sàn,Nhập khẩu,Ghi xám
+1,Mercedes-Benz, Mercedes - Benz class,55 triệu,Mercedes-Benz C-class,Trước 1980,0,Xăng ,Số sàn,Nhập khẩu,Ghi xám
+2,KIA, New sorento 2.2AT 2014,810 triệu,KIA Sorento,2014,49.000 km,Xăng 2.2L,Tự động,Lắp ráp trong nước,Bạc
+3,Mercedes-Benz, Mercedes - Benz S400 3.0AT 2016,"3,790 tỷ",Mercedes-Benz S-class,2016,20.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+4,Lexus, RX350 3.5AT 2011,"2,190 tỷ",Lexus RX,2011,30.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Trắng
+5,Mazda, 2s 1.5AT 2012,458 triệu,Mazda 2,2012,41.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Đỏ
+6,KIA, morning 1.0AT 2011,378 triệu,Kia Morning,2011,33.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Ghi xám
+7,Mercedes-Benz, MERCEDES-BENZ GLA 45 AMG 2.0AT 2016,"2,050 tỷ",Mercedes-Benz GLA-Class,2016,6.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+8,Chevrolet, Captiva 2.4AT 2007,315 triệu,Chevrolet Captiva,2007,11.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+9,Ford, Ranger XLS 2.2MT 2014,490 triệu,Ford Ranger,2014,22.000 km,Diesel 2.2L,Số sàn,Nhập khẩu,Bạc
+10,KIA, Forte 1.6MT 2012,446 triệu,Kia Forte, 2012,6.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Vàng cát
+11,Lexus, RX 3.3AT 2004,710 triệu,Lexus RX, 2004,120.000 km,Xăng 3.3L,Tự động,Nhập khẩu,Vàng cát
+12,KIA, Rio 1.4AT 2015,580 triệu,KIA Rio,2015,10.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Đỏ
+13,Toyota, Altis 1.8MT 2003,295 triệu,Toyota Altis,2003,220.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+14,KIA, Forte 1.6AT 2011,425 triệu,Kia Forte,2011,60.000 km,Xăng ,Tự động,Lắp ráp trong nước,Ghi xám
+15,Audi, Q3 2.0AT 2012,"1,300 tỷ",Audi Q3,2012,32.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+16,Nissan, X-trail 2.0 2WD 2018,878 triệu,Nissan X-Trail,2018,0,Xăng 2.0L,Vô cấp,Nhập khẩu,Bạc
+17,Ford, Everest 2.5MT 2009,518 triệu,Ford Everest,2009,75.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Hồng phấn
+18,Hyundai, Starex 2.4MT 2006,310 triệu,Hyundai Starex, 2006,120.000 km,Diesel 2.4L,Số sàn,Nhập khẩu,Bạc
+19,Hyundai, Sonata 2.0AT 2009,400 triệu,Hyundai Sonata,2009,60.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Ghi xám
+20,Ford, Fiesta 1.5AT 2014,440 triệu,Ford Fiesta,2014,20.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Nâu
+21,Land Rover, Range Rover Sport 3.0AT 2015,"4,850 tỷ",Land Rover All New Range Rover Sport,2015,3.000 km,Xăng 3.0L,Tự động,Nhập khẩu,Trắng
+22,Mitsubishi, Triton 2.5MT 2007,268 triệu,Mitsubishi Triton,2007,20.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+23,Daewoo, Gentra 1.5MT 2009,240 triệu,,2009,80.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Đen
+24,Toyota,  Innova 2.0AT 2009,488 triệu,Toyota Innova,2009,80.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+25,Nissan, Teana 2.0AT 2009	,545 triệu,Nissan Teana,2009	,70.000 km,Xăng  2.0L,Tự động,Nhập khẩu,Trắng
+26,Mazda, 3S 1.6AT 2013,560 triệu,Mazda 3, 2013,70.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Trắng
+27,Lexus, RX350 3.5AT 2017,"4,000 tỷ",Lexus RX, 2017,90.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Vàng
+28,KIA, Carens 2.0AT 2011,399 triệu,KIA Carens,2011,60.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+29,Toyota, Camry 3.2AT 2008,750 triệu,Toyota Camry,2008,80.000 km,Xăng 3.2L,Tự động,Lắp ráp trong nước,Vàng cát
+30,Hyundai, Starex 2.4MT 2013,698 triệu,Hyundai Starex,2013,49.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Vàng cát
+31,Toyota, Innova 2.0MT 2008,486 triệu,Toyota Innova,2008,90.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+32,Hyundai, Avante 1.6AT 2012,458 triệu,Hyundai Avante,2012,40.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Đen
+33,Chevrolet, Orlando 1.8MT 2012,455 triệu,Chevrolet Orlando,2012,20.000 km,Xăng 1.8L,Số sàn,Nhập khẩu,Vàng cát
+34,Ford, Mondeo 2.0AT 2003,175 triệu,Ford Mondeo,2003,200.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+35,Mercedes-Benz, GL450 3.0AT 2011,"1,790 tỷ",Mercedes-Benz GL-class,2011,32.000 km,Xăng 3.0L,Tự động,Nhập khẩu,Đen
+36,Mazda, 2 1.5AT 2016,525 triệu,Mazda 2,2016,5.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Xanh Đen
+37,Ford, Fiesta 1.0AT 2014,440 triệu,Ford Fiesta,2014,20.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Nâu
+38,Ford, Fiesta 1.0AT 2016,600 triệu,Ford Fiesta,2016,4.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Bạc
+39,Mercedes-Benz,  S400 3.0AT 2015,"3,450 tỷ",Mercedes-Benz S-class,2015,16.000 km,Xăng 3.0L,Tự động,Nhập khẩu,Đen
+40,Mercedes-Benz, GLA 45 AMG 2.0AT 2016,"2,050 tỷ",Mercedes-Benz GLA-Class,2016,6.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+41,Mercedes-Benz, Mercedes GLK250 AMG 2.0AT 2014,"1,550 tỷ",Mercedes-Benz GLK-class,2014,15.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+42,Suzuki, Vitara 1.6AT 2016,760 triệu,Suzuki Vitara,2016,6.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Màu Kem
+43,Nissan, Teana 2.0AT 2010,610 triệu,Nissan Teana,2010,60.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+44,KIA, Forte Koup 1.6AT 2010,485 triệu,Kia Forte,2010,60.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Đỏ
+45,KIA, Morning 1.0AT 2011,378 triệu,Kia Morning,2011,36.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Màu Kem
+46,KIA, Rio 1.4AT 2015,559 triệu,KIA Rio,2015,30.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Trắng
+47,Hyundai, i10 1.0MT 2015,338 triệu,Hyundai i10,2015,52.000 km,Xăng 1.0L,Số sàn,Nhập khẩu,Đỏ
+48,Honda, Civic 2.0AT 2014,688 triệu,Honda Civic,2014,51.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+49,KIA, Morning 1.0MT 2007,158 triệu,Kia Morning,2007,250.000 km,Xăng 1.0L,Số sàn,Nhập khẩu,Bạc
+50,Hyundai, Getz 1.1MT 2009,260 triệu,Hyundai Getz,2009,80.000 km,Xăng 1.1L,Số sàn,Lắp ráp trong nước,Xanh da trời
+51,Toyota, Vios  1.5AT 2011,365 triệu,Toyota Vios,2011,60.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Bạc
+52,KIA, Sorento 2.4AT 2014,810 triệu,KIA Sorento,2014,26.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+53,Chevrolet, Spark 1.2MT 2010,143 triệu,Chevrolet Spark,2010,160.000 km,Xăng 1.2L,Số sàn,Lắp ráp trong nước,Đỏ
+54,Nissan, Teana 2.0AT 2010,610 triệu,Nissan Teana,2010,70.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+55,KIA, Morning 1.2AT 2009,285 triệu,Kia Morning,2009,50.000 km,Xăng 1.2AT,Tự động,Lắp ráp trong nước,Bạc
+56,KIA, Morning 1.1AT 2011,295 triệu,Kia Morning,2011,50.000 km,Xăng 1.1L,Tự động,Lắp ráp trong nước,Ghi xám
+57,Hyundai, Santafe 2.4AT 2015,"1,088 tỷ",Hyundai Santafe,2015,28.000 km,Diesel 2.4L,Tự động,Lắp ráp trong nước,Đen
+58,Jaguar,  XE Portfolio AT 2016,"1,950 tỷ",Jaguar XE,2016,25.500 km,Xăng ,Tự động,Nhập khẩu,Đỏ
+59,Mercedes-Benz,  S400 3.0AT 2014,"3,250 tỷ",Mercedes-Benz S-class,2014,18.000 km,Xăng 3.0L,Tự động,Nhập khẩu,Trắng
+60,KIA, Sorento 2.0AT 2015,810 triệu,KIA Sorento,2015,35.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Vàng cát
+61,Mercedes-Benz, S400L 3.0AT 2015,"3,260 tỷ",Mercedes-Benz S-class,2015,11.000 km,Xăng 3.0L,Tự động,Nhập khẩu,Đen
+62,Zotye, Z300 1.6AT 2015,395 triệu,,2015,30.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Trắng
+63,Toyota, Innova G 2.0MT 2008,428 triệu,Toyota Innova,2008,120.000 km,Xăng ,Số sàn,Lắp ráp trong nước,Vàng cát
+64,Mercedes-Benz, S500 2.0AT 2003,520 triệu,Mercedes-Benz S-class,2003,110.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+65,Hyundai, i20 1.4AT 2010,385 triệu,Hyundai i20,2010,70.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Bạc
+66,Mercedes-Benz, C300 3.0AT 2016,"2,600 tỷ",Mercedes-Benz C-class,2016,7.000 km,Xăng ,Tự động,Nhập khẩu,Trắng
+67,Toyota, Land Cruiser Prado TXL 2011,"1,530 tỷ",Toyota Land Cruiser Prado,2011,80.000 km,Xăng 2.7L,Tự động,Nhập khẩu,Đen
+68,Audi, A5 2.0AT 2013,"1,580 tỷ",Audi A5,2013,30.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+69,Toyota, Vios G 1.5L 2011,480 triệu,Toyota Vios,2011,60.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Bạc
+70,Toyota, Venza 3.5AT 2009,960 triệu,Toyota Venza,2009,44.000 km,Xăng 3.5L,Tự động,Lắp ráp trong nước,Nâu
+71,Mercedes-Benz, GLK300 3.0AT 2009,890 triệu,Mercedes-Benz GLK-class,2009,45.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Trắng
+72,Toyota, Camry 2.4AT 2008,630 triệu,Toyota Camry,2008,125.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+73,Mitsubishi, Triton 2.5AT 2013,480 triệu,Mitsubishi Triton,2013,68.000 km,Xăng 2.5L,Tự động,Nhập khẩu,Đen
+74,KIA, Morning Van 1.0AT 2013,288 triệu,Kia Morning,2013,40.000 km,Xăng 1.0,Tự động,Lắp ráp trong nước,Đỏ
+75,Toyota, Hiace 2.5MT 2009,380 triệu,Toyota Hiace,2009,60.000 km,Xăng 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+76,Ford, Laser 1.8MT 2003,220 triệu,Ford Laser,2003,220.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đồng
+77,Toyota, Yaris 1.5AT 2016,640 triệu,Toyota Yaris,2016,3.168 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+78,Mercedes-Benz, C200 2014,"1,090 tỷ",Mercedes-Benz C-class,2014,25.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+79,Mitsubishi, Pajero Sport 2.4AT 2014,809 triệu,Mitsubishi Pajero Sport,2014,40.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Vàng cát
+80,Mitsubishi, Zinger 2.4MT 2008,345 triệu,Mitsubishi Zinger,2008,80.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+81,Mitsubishi, Pajero Sport 3.0AT 2012,710 triệu,Mitsubishi Pajero Sport,2012,43.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Trắng
+82,Mitsubishi, Zinger 2.4MT 2009,405 triệu,Mitsubishi Zinger,2009,90.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Đen
+83,Ford, Ranger XLS MT 2012,489 triệu,Ford Ranger,2012,38.000 km,Diesel ,Số sàn,Nhập khẩu,Đen
+84,Ford, Fiesta 1.0AT 2014,495 triệu,Ford Fiesta,2014,5.900 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Đỏ
+85,Ford, Focus 1.8MT 2011,420 triệu,Ford Focus,2011,37.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+86,Ford, Focus 2.0MT 2009,365 triệu,Ford Focus,2009,67.000 km,Xăng ,Số sàn,Lắp ráp trong nước,Vàng cát
+87,Ford, Laser 1.8AT 2003,235 triệu,Ford Laser,2003,15.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Xanh lá
+88,Ford, Escape 2.3AT 2013,590 triệu,Ford Escape,2013,67.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Bạc
+89,Ford, Everest 2.5AT 2009,495 triệu,Ford Everest,2009,73.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Hồng phấn
+90,Ford, Escape 2.3AT 2009,515 triệu,Ford Escape,2009,67.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Ghi xám
+91,Ford, Escape 2.3AT 2008,420 triệu,Ford Escape,2008,110.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+92,Ford, Focus 2.0AT 2015,668 triệu,Ford Focus,2015,18.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đỏ
+93,Ford, Laser 1.8MT 2002,225 triệu,Ford Laser,2002,17.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Xanh lá
+94,Ford, Focus 1.8MT 2007,258 triệu,Ford Focus,2007,87.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+95,Ford, Transit 2.4MT 2015,799 triệu,Ford Transit,2015,57.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Trắng
+96,Ford, Focus 1.8AT 2010,409 triệu,Ford Focus,2010,50.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+97,Mazda, 3 1.5AT 2015,628 triệu,Mazda 3,2015,4.500 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Đen
+98,Mazda, 6 2.0AT 2015,799 triệu,Mazda 6,2015,25.515 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+99,Mercedes-Benz, C250 2.5AT 2013,980 triệu,Mercedes-Benz C-class,2013,40.000 km,Xăng 2.5L,Tự động,Nhập khẩu,Nâu
+100,KIA, Kia Morning 1.0MT 2005,165 triệu,Kia Morning,2005,150.000 km,Xăng 1.0L,Số sàn,Nhập khẩu,Bạc
+101,Daewoo, Lacetti SE 1.6MT 2010,370 triệu,,2010,60.000 km,Xăng 1.6L,Số sàn,Nhập khẩu,Đen
+102,Porsche, Panamera 3.6AT 2014,"3,800 tỷ",Porsche Panamera,2014,20.000 km,Xăng 3.6L,Tự động,Nhập khẩu,Đen
+103,Ford, Ranger XLS AT 2015,610 triệu,Ford Ranger,2015,35.000 km,Diesel ,Tự động,Nhập khẩu,Bạc
+104,Ford, Everest 2.5MT 2014,749 triệu,Ford Everest,2014,53.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Hồng phấn
+105,Ford, Everest 2.5AT 2008,470 triệu,Ford Everest,2008,87.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Đen
+106,Ford, Mondeo 2.5AT 2004,232 triệu,Ford Mondeo,2004,87.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+107,Ford, Ranger XLS MT 2012,499 triệu,Ford Ranger,2012,62.000 km,Diesel ,Số sàn,Nhập khẩu,Nâu
+108,Ford, Everest 2.5MT 2008,444 triệu,Ford Everest,2008,73.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+109,Ford, Transit 2.4MT 2012,520 triệu,Ford Transit,2012,190.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+110,Ford, Laser 1.6MT 2003,225 triệu,Ford Laser,2003,115.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Bạc
+111,Ford,  Focus 1.8MT 2008,345 triệu,Ford Focus,2008,11.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Trắng
+112,Toyota, Camry G 2.4AT 2011,815 triệu,Toyota Camry,2011,60.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+113,Ford, Fiesta 1.6AT 2011,375 triệu,Ford Fiesta,2011,80.450 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Xanh lá
+114,Hyundai, Getz 1.1MT 2010,325 triệu,Hyundai Getz,2010,75.891 km,Xăng 1.1L,Số sàn,Nhập khẩu,Bạc
+115,Mercedes-Benz, S-Class S400 3.0AT 2015,"3,550 tỷ",Mercedes-Benz S-class,2015,13.000 km,Xăng 3.0L,Tự động,Nhập khẩu,Đen
+116,KIA, Sedona 3.3AT 2016,"1,220 tỷ",KIA Sedona,2016,3.000 km,Xăng 3.3L,Tự động,Lắp ráp trong nước,Đen
+117,Lexus, GX350 3.5AT 2009,"1,850 tỷ",Lexus GX,2009,64.360 km,Xăng 3.5L,Tự động,Nhập khẩu,Trắng
+118,Hyundai, Santafe SLX 2.0AT 2008,700 triệu,Hyundai Santafe,2008,50.000 km,Diesel 2.0L,Tự động,Nhập khẩu,Đen
+119,KIA, Morning 1.25AT 2016,405 triệu,Kia Morning,2016,8.000 km,Xăng 1.25L,Tự động,Lắp ráp trong nước,Đỏ
+120,Hyundai, Avante 1.6AT 2011,429 triệu,Hyundai Avante,2011,50.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Ghi xám
+121,Toyota, Corolla Altis 1.8AT 2014,710 triệu,Toyota Altis,2014,40.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+122,Mitsubishi, Zinger 2.4MT 2010,355 triệu,Mitsubishi Zinger,2010,44.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+123,Mitsubishi, Jolie 2.0MT 2006,188 triệu,Mitsubishi Jolie,2006,120.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+124,Mitsubishi, Mirage 1.2AT 2014,430 triệu,Mitsubishi Mirage,2014,23.000 km,Xăng 1.2L,Tự động,Lắp ráp trong nước,Trắng
+125,Mitsubishi, Jolie 2.0MT 2005,253 triệu,Mitsubishi Jolie,2005,110.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Đen
+126,Ford, Mondeo 2.5AT 2004,245 triệu,Ford Mondeo,2004,70.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Vàng cát
+127,Ford, EcoSport 1.5AT 2015,560 triệu,Ford EcoSport,2015,13.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+128,Ford, Ranger 3.2AT 2015,675 triệu,Ford Ranger,2015,55.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Trắng
+129,Ford, EcoSport 1.5AT 2015,595 triệu,Ford EcoSport,2015,1.170 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Nâu
+130,Ford, Ranger XLS MT 2016,585 triệu,Ford Ranger,2016,30.000 km,Diesel ,Số sàn,Nhập khẩu,Trắng
+131,Ford, Everest 2.5MT 2009,475 triệu,Ford Everest,2009,75.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+132,Ford, Everest 2.5MT 2005	,308 triệu,Ford Everest,2005,125.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+133,Ford, Focus 1.8AT 2012,438 triệu,Ford Focus,2012,59.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Vàng cát
+134,Ford, Escape 2.3AT 2005,335 triệu,Ford Escape,2005,92.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+135,Ford, Fiesta AT 2011,430 triệu,Ford Fiesta,2011,100.000 km,Xăng ,Tự động,Lắp ráp trong nước,Vàng cát
+136,Ford, Laser 1.8MT 2000,168 triệu,Ford Laser,2000,110.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Bạc
+137,Ford, Fiesta 1.5AT 2015,489 triệu,Ford Fiesta,2015,23.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+138,Ford, Focus 1.6AT 2014,525 triệu,Ford Focus,2014,20.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Trắng
+139,Ford, Fiesta 1.6AT 2014,450 triệu,Ford Fiesta,2014,20.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Đỏ
+140,Ford, Escape 3.0AT 2004,265 triệu,Ford Escape,2004,95.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+141,Ford, Focus 1.8AT 2012,465 triệu,Ford Focus,2012,56.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đỏ
+142,Ford, Laser 1.6MT 2002,186 triệu,Ford Laser,2002,15.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Xanh da trời
+143,Mercedes-Benz, GLK250AMG 2.0AT 2015,"1,560 tỷ",Mercedes-Benz GLK-class,2015,15.000 km,Xăng 2.0,Tự động,Nhập khẩu,Trắng
+144,Honda, Civic 2.0AT 2014,698 triệu,Honda Civic,2014,51.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+145,Hyundai, Tucson 2.0AT 2009,450 triệu,Hyundai Tucson,2009,62.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+146,Toyota, Vios G 1.5AT 2016,615 triệu,Toyota Vios,2016,10.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Vàng cát
+147,Hyundai, i10 1.0MT 2015,385 triệu,Hyundai i10,2015,30.000 km,Xăng 1.0L,Số sàn,Nhập khẩu,Bạc
+148,Nissan, Teana 2.0AT 2010,625 triệu,Nissan Teana,2010,61.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+149,Toyota, Innova G 2.0MT 2008,480 triệu,Toyota Innova,2008,80.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+150,Toyota, Vios E 1.5MT 2010,390 triệu,Toyota Vios,2010,79.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Bạc
+151,Toyota, Vios E 1.5MT 2011,395 triệu,Toyota Vios,2011,180.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Vàng cát
+152,Toyota, Innova G 2.0MT 2008,535 triệu,Toyota Innova,2008,100.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Ghi xám
+153,Toyota, Innova G 2.0MT 2012,615 triệu,Toyota Innova,2012,50.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+154,Toyota, Innova G 2.0MT 2008 ,485 triệu,Toyota Innova,2008,88.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+155,Toyota, Innova G 2.0MT 2011,508 triệu,Toyota Innova,2011,60.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+156,Toyota, Vios E 1.5MT 2010,365 triệu,Toyota Vios,2010,65.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Bạc
+157,Toyota, Vios G 1.5AT 2008,455 triệu,Toyota Vios,2008,61.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Bạc
+158,Toyota, Innova G 2.0MT 2011 ,506 triệu,Toyota Innova,2011,60.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+159,Toyota, Innova G 2.0MT 2010,550 triệu,Toyota Innova,2010,76.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+160,Toyota, Innova G 2.0MT 2011,506 triệu,Toyota Innova,2011,60.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+161,Toyota, Innova G 2.0MT 2008,345 triệu,Toyota Innova,2008,80.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+162,Toyota, Camry Q 2.5AT 2013,"1,120 tỷ",Toyota Camry,2013,30.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Vàng cát
+163,Toyota, Camry G 2.5AT 2013,"1,020 tỷ",Toyota Camry,2013,17.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+164,Toyota, Camry G 2.4AT 2007,680 triệu,Toyota Camry,2007,43.000 km,Xăng 2.4L,Tự động,Nhập khẩu,Đen
+165,Toyota, Camry G 2.4AT 2010,795 triệu,Toyota Camry,2010,60.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+166,Toyota, Camry Q 3.5AT 2008,660 triệu,Toyota Camry,2008,60.000 km,Xăng 3.5L,Tự động,Lắp ráp trong nước,Đen
+167,Toyota, Fortuner V 2.7AT 2011,700 triệu,Toyota Fortuner,2011,98.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Bạc
+168,Toyota, Camry G 2.5AT 2013,899 triệu,Toyota Camry,2013,30.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+169,Toyota, Camry G 2.4AT 2008,680 triệu,Toyota Camry,2008,80.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+170,Toyota, Camry Q 2.5AT 2014,"1,090 tỷ",Toyota Camry,2014,37.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+171,Toyota, Camry LE 3.5AT 2007,690 triệu,Toyota Camry,2007,73.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Đen
+172,Toyota, Camry XLE 2.5AT 2009,860 triệu,Toyota Camry,2009,70.000 km,Xăng 2.5L,Tự động,Nhập khẩu,Trắng
+173,Toyota, Fortuner V 2.7AT 2011,700 triệu,Toyota Fortuner,2011,70.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Bạc
+174,Toyota, Vios E 1.5MT 2009,335 triệu,Toyota Vios,2009,64.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Bạc
+175,Toyota, Vios E 1.5MT 2010,363 triệu,Toyota Vios,2010,65.000 km,Xăng ,Số sàn,Lắp ráp trong nước,Đen
+176,Toyota, Camry E 2.0AT 2013,895 triệu,Toyota Camry,2013,20.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Vàng cát
+177,Toyota, Yaris G 1.3AT 2014,630 triệu,Toyota Yaris,2014,25.000 km,Xăng 1.3L,Tự động,Nhập khẩu,Trắng
+178,Ford, Everest 2.5AT 2014,815 triệu,Ford Everest,2014,34.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Trắng
+179,Ford, Focus 1.8AT 2011,500 triệu,Ford Focus,2011,50.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đỏ
+180,Ford, Mondeo 2.5AT 2004,250 triệu,Ford Mondeo,2004,130.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+181,Ford, Escape 2.3AT 2007,368 triệu,Ford Escape,2007,76.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+182,Ford, Everest 2.5AT 2014,810 triệu,Ford Everest,2014,21.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Bạc
+183,Ford, Ranger XLS 2.2AT 2014,595 triệu,Ford Ranger,2014,18.000 km,Diesel 2.2L,Tự động,Nhập khẩu,Trắng
+184,Ford, Escape XLT 2.3AT 2011,630 triệu,Ford Escape,2011,60.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đỏ Đậm
+185,Ford, Focus 2.0AT 2011,475 triệu,Ford Focus,2011,40.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+186,Ford, Escape 2.3AT 2005,290 triệu,Ford Escape,2005,110.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+187,Ford, Focus 2.0AT 2013,650 triệu,Ford Focus,2013,32.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+188,Ford, Everest Limited 2.5AT 2010,600 triệu,Ford Everest,2010,97.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Bạc
+189,Ford, Everest 2.5MT 2015,795 triệu,Ford Everest,2015,38.000 km,Xăng 2.5L,Số sàn,Lắp ráp trong nước,Đen
+190,Ford, Focus 1.8AT 2010,465 triệu,Ford Focus,2010,70.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+191,Ford, Everest 2.5MT 2007,435 triệu,Ford Everest,2007,100.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+192,Ford, Everest Limited 2.5AT 2010,620 triệu,Ford Everest,2010,60.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Bạc
+193,Ford, Everest 2.5MT 2007,360 triệu,Ford Everest,2007,90.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+194,Ford, Everest 2.6MT 2007,385 triệu,Ford Everest,2007,71.000 km,Xăng 2.6L,Số sàn,Lắp ráp trong nước,Đen
+195,Ford, Everest 2.5MT 2009,515 triệu,Ford Everest,2009,85.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+196,Ford, Ranger 2.2MT 2012,470 triệu,Ford Ranger,2012,76.000 km,Xăng 2.2L,Số sàn,Nhập khẩu,Trắng
+197,Ford, Escape XLS 2.3AT 2010,528 triệu,Ford Escape,2010,77.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Bạc
+198,Ford, Everest Limited 2.5AT 2014,790 triệu,Ford Everest,2014,28.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Bạc
+199,Ford, Everest 2.5AT 2014,788 triệu,Ford Everest,2014,40.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Bạc
+200,Ford, Ranger XLS 2.2AT 2013,550 triệu,Ford Ranger,2013,45.000 km,Diesel 2.2L,Tự động,Nhập khẩu,Bạc
+201,Ford, Escape 3.0AT 2002,215 triệu,Ford Escape,2002,200.000 km,Xăng ,Tự động,Lắp ráp trong nước,Đen
+202,Ford, Everest 2.5AT 2014,810 triệu,Ford Everest,2014,14.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Vàng cát
+203,Ford, Everest 2.5MT 2010,590 triệu,Ford Everest,2010,69.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+204,Ford, Everest 2.5MT 2011,655 triệu,Ford Everest,2011,60.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+205,Ford, Ranger 3.2AT 2015,805 triệu,Ford Ranger,2015,23.500 km,Diesel 3.2L,Tự động,Nhập khẩu,Cam
+206,Toyota, Camry 2.4G 2010,725 triệu,Toyota Camry,2010,50.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+207,Ford, Mondeo 2.3AT 2009,500 triệu,Ford Mondeo,2009,80.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Ghi xám
+208,Toyota, Sienna Limited 3.5AT 2010,"2,050 tỷ",Toyota Sienna,2010,55.000 km,Xăng ,Tự động,Nhập khẩu,Vàng cát
+209,Daewoo, Gentra 1.5MT 2006,165 triệu,,2006,170.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Trắng
+210,Toyota, Innova G 2.0MT 2006,288 triệu,Toyota Innova,2006,200.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Trắng
+211,Toyota, Camry 2.5G 2013,930 triệu,Toyota Camry,2013,36.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+212,Toyota, Vios 1.5MT 2004,215 triệu,Toyota Vios,2004,150.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Vàng cát
+213,Toyota, Land Cruiser 2.7TX-L 2009,"1,333 tỷ",Toyota Land Cruiser Prado,2009,80.000 km,Xăng 2.7L,Tự động,Nhập khẩu,Trắng
+214,Chevrolet, Captiva LT 2.4MT 2008,355 triệu,Chevrolet Captiva,2008,80.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+215,Mazda, 3 1.5AT 2015,628 triệu,Mazda 3,2015,4.500 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Đen
+216,Toyota, Fortuner 2.7V 4x2AT 2012,750 triệu,Toyota Fortuner,2012,75.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Bạc
+217,Mercedes-Benz, C-Class C200 2.0AT 2016,"1,380 tỷ",Mercedes-Benz C-class,2016,16.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+218,Mitsubishi, Lancer Gala 1.6AT 2003,218 triệu,Mitsubishi Lancer Gala,2003,200.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Xanh Đen
+219,Toyota, Venza 2.7AT 2009,"1,040 tỷ",Toyota Venza,2009,67.000 km,Xăng 2.7L,Tự động,Nhập khẩu,Xanh Dương
+220,Toyota, Fortuner 2.7V 4x2 2009,630 triệu,Toyota Fortuner,2009,87.700 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Bạc
+221,Daewoo, Lacetti 1.6AT 2009,270 triệu,,2009,60.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Bạc
+222,Hyundai, Getz 1.1MT 2009,285 triệu,Hyundai Getz,2009,80.000 km,Xăng 1.1L,Số sàn,Lắp ráp trong nước,Bạc
+223,Toyota, Camry 2.4G 2008 ,577 triệu,Toyota Camry,2008,70.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+224,Suzuki, Swift 1.5AT 2014,495 triệu,Suzuki Swift,2014,20.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+225,Hyundai, Getz 1.1MT 2009 ,255 triệu,Hyundai Getz,2009,90.000 km,Xăng 1.1,Số sàn,Lắp ráp trong nước,Bạc
+226,Lexus, RX 350 3.5AT 2009,"1,850 tỷ",Lexus RX,2009,32.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Đen
+227,Nissan, Teana 2.0AT 2009,555 triệu,Nissan Teana,2009,80.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+228,Ford, Escape XLS 2.3AT 2009,435 triệu,Ford Escape,2009,50.000 km,Xăng 2.3,Tự động,Lắp ráp trong nước,Ghi xám
+229,Hyundai, Avante 1.6AT 2010 ,500 triệu,Hyundai Avante,2010,40.000 km,Xăng 1.6,Tự động,Nhập khẩu,Đen
+230,KIA, Morning Van 1.0AT 2013,288 triệu,Kia Morning,2013,40.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Đỏ
+231,Mercedes-Benz, S400 2015,"3,680 tỷ",Mercedes-Benz S-class,2015,15.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+232,Toyota, Camry G 2.4AT 2008,680 triệu,Toyota Camry,2008,90.000 km,Xăng ,Tự động,Lắp ráp trong nước,Đen
+233,Toyota, Fortuner G 2.5MT 2015,930 triệu,Toyota Fortuner,2015,45.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+234,Mitsubishi, Pajero Sport 2.5MT 2015,695 triệu,Mitsubishi Pajero Sport,2015,25.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Vàng cát
+235,Ford, Everest 2.5MT 2013,699 triệu,Ford Everest,2013,52.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+236,Ford, Escape 3.0AT 2004,300 triệu,Ford Escape,2004,500.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+237,Ford, Escape 2.3AT 2007	,435 triệu,Ford Escape,2007,52.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+238,Ford, Fiesta 1.8AT 2014,470 triệu,Ford Fiesta,2014,48.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đỏ
+239,Ford, Focus 1.8AT 2012,475 triệu,Ford Focus,2012,48.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đỏ
+240,Nissan, Teana 2.0AT 2009 ,555 triệu,Nissan Teana,2009,80.000 km,Xăng ,Tự động,Nhập khẩu,Trắng
+241,Toyota, Innova E 2.0MT 2016,720 triệu,Toyota Innova,2016,10.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+242,Land Rover, Range Rover Evoque Dynamic 2.0AT 2012,"1,790 tỷ",Land Rover Range Rover Evoque,2012,28.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+243,Mazda, 2S 1.4AT 2012,468 triệu,Mazda 2,2012,41.000 km,Xăng 1.4L,Tự động,Lắp ráp trong nước,Đỏ
+244,KIA, Rio 1.4AT 2016,500 triệu,KIA Rio,2016,25.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Đỏ
+245,KIA, Sorento 2.0AT 2015,865 triệu,KIA Sorento,2015,29.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+246,KIA, K3 2.0AT 2014,605 triệu,KIA K3,2014,44.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đỏ
+247,Ford, Ranger 3.2AT 2016,883 triệu,Ford Ranger,2016,7.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Đen
+248,Ford, Everest 2.5MT 2009,435 triệu,Ford Everest,2009,75.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Hồng phấn
+249,Ford, Everest 2.5MT 2008,435 triệu,Ford Everest,2008,78.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Hồng phấn
+250,Ford, Ranger 2.2AT 2016,598 triệu,Ford Ranger,2016,20.000 km,Diesel 2.2L,Tự động,Nhập khẩu,Ghi xám
+251,Ford, Ranger 2.2AT 2016,595 triệu,Ford Ranger,2016,23.000 km,Diesel 2.2L,Tự động,Nhập khẩu,Bạc
+252,Ford, Ranger 3.2AT 2014,720 triệu,Ford Ranger,2014,53.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Trắng
+253,Ford, Everest 2.5MT 2005,308 triệu,Ford Everest,2005,87.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+254,Ford, EcoSport 1.5AT 2015,585 triệu,Ford EcoSport,2015,34.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+255,Ford, Escape 3.0AT 2004,319 triệu,Ford Escape,2004,67.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đỏ
+256,Daewoo, Matiz 0.8MT 2005,89 triệu,,2005,150.000 km,Xăng 0.8L,Số sàn,Nhập khẩu,Bạc
+257,BMW, Series 5 520i 2012,"1,200 tỷ",BMW Series 5,2012,60.000 km,Xăng ,Tự động,Nhập khẩu,Trắng
+258,Mitsubishi, Pajero 2.5AT 2011,710 triệu,Mitsubishi Pajero,2011,70.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Vàng cát
+259,Ford, Ranger XLS AT 2015,596 triệu,Ford Ranger,2015,25.000 km,Diesel ,Tự động,Nhập khẩu,Bạc
+260,Hyundai, Accent 1.4AT 2014,520 triệu,Hyundai Accent,2014,8.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Bạc
+261,Honda, CR-V 2.4AT 2014,930 triệu,Honda CR-V,2014,20.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+262,KIA, Rio 1.4AT 2016,518 triệu,KIA Rio,2016,10.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Trắng
+263,KIA, Rio 1.4AT 2016,579 triệu,KIA Rio,2016,4.500 km,Xăng 1.4L,Tự động,Lắp ráp trong nước,Nâu
+264,Mercedes-Benz,  E350 Coupe 2.5AT 2010,"1,500 tỷ",Mercedes-Benz E-class,2010,4.000 km,Xăng 2.5,Tự động,Nhập khẩu,Bạc
+265,KIA, Morning LX 2005,165 triệu,Kia Morning,2005,15.000 km,Xăng ,Số sàn,Nhập khẩu,Bạc
+266,Mercedes-Benz, S400 3.0AT 2014,"3,005 tỷ",Mercedes-Benz S-class,2014,25.000 km,Xăng 3.0,Tự động,Nhập khẩu,Bạc
+267,Ford, Fiesta 1.6AT 2013,489 triệu,Ford Fiesta,2013,42.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Trắng
+268,KIA, Carens 2.0AT 2012,475 triệu,KIA Carens,2012,45.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+269,KIA, Carens 2.0AT 2010,425 triệu,KIA Carens,2010,70.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+270,KIA, Kia Morning Van 1.0AT 2016,336 triệu,Kia Morning,2016,80.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Đỏ
+271,KIA, Forte SLI 1.6AT 2009,415 triệu,Kia Forte,2009,78.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Bạc
+272,KIA, Sorento 2.0AT 2015,790 triệu,KIA Sorento,2015,18.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+273,Toyota, Camry LE 2007,750 triệu,Toyota Camry,2007,36.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Trắng
+274,KIA, Morning 1.0MT 2016,295 triệu,Kia Morning,2016,30.000 km,Xăng 1.0L,Số sàn,Lắp ráp trong nước,Bạc
+275,KIA, Rio 1.4AT 2014,525 triệu,KIA Rio,2014,50.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Trắng
+276,Toyota, Camry Q 3.5AT 2008 ,750 triệu,Toyota Camry,2008,54.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Đen
+277,KIA, Sorento 2.4AT 2015,890 triệu,KIA Sorento,2015,27.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Trắng
+278,Toyota, Vios E 1.5MT 2014,480 triệu,Toyota Vios,2014,51.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Trắng
+279,Toyota, Vios  E 1.5MT 2013,465 triệu,Toyota Vios,2013,60.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Bạc
+280,Mitsubishi, Grandis 2.4AT 2006,465 triệu,Mitsubishi Grandis,2006,90.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+281,Toyota, Innova E  2.0MT 2015 ,696 triệu,Toyota Innova,2015,55.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+282,Toyota, Innova E 2.0MT 2015 ,715 triệu,Toyota Innova,2015,50.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+283,Mitsubishi, Grandis 2.4AT 2005,398 triệu,Mitsubishi Grandis,2005,60.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Ghi xám
+284,Ford, Everest 2.5MT 2005,325 triệu,Ford Everest,2005,105.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+285,Ford, Everest 2.5AT 2009,550 triệu,Ford Everest,2009,86.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Hồng phấn
+286,Ford, Everest 2.5MT 2008,450 triệu,Ford Everest,2008,57.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+287,Ford, Everest 2.5MT 2005,308 triệu,Ford Everest,2005,92.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+288,Ford, Everest 2.5MT 2013,719 triệu,Ford Everest,2013,53.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Hồng phấn
+289,Mitsubishi, Zinger 2.4MT 2010,415 triệu,Mitsubishi Zinger,2010,60.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Vàng cát
+290,Ford, Everest 2.5MT 2008	,447 triệu,Ford Everest,2008,8.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+291,Ford, EcoSport 1.5AT 2015,585 triệu,Ford EcoSport,2015,22.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+292,Ford, Everest 2.5MT 2008,460 triệu,Ford Everest,2008,82.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+293,Ford, Transit 2.4MT 2004,185 triệu,Ford Transit,2004,58.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+294,Ford, Escape 2.3AT 2007	,430 triệu,Ford Escape,2007,62.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+295,Ford, Focus 1.8AT 2011,465 triệu,Ford Focus,2011,22.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+296,Ford, Laser 1.8AT 2003,245 triệu,Ford Laser,2003,100.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Ghi xám
+297,Ford, Focus 1.8AT 2009,359 triệu,Ford Focus,2009,125.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+298,Mitsubishi, Grandis 2.4MT 2005,525 triệu,Mitsubishi Grandis,2005,80.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Vàng cát
+299,Ford, Focus 2.0AT 2007,355 triệu,Ford Focus,2007,97.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+300,Ford, Escape 2.3AT 2004,265 triệu,Ford Escape,2004,76.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Trắng
+301,Ford, Focus 1.8AT 2010,445 triệu,Ford Focus,2010,67.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Xanh lá
+302,Ford, Laser 1.8AT 2004	,245 triệu,Ford Laser,2004,12.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+303,Mitsubishi, Zinger 2.4MT 2008,365 triệu,Mitsubishi Zinger,2008,44.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+304,Mitsubishi, Triton 3.0MT 2016,545 triệu,Mitsubishi Triton,2016,5.000 km,Diesel 3.0L,Số sàn,Lắp ráp trong nước,Bạc
+305,Mercedes-Benz, GLK220 2.2AT 2014,"1,390 tỷ",Mercedes-Benz GLK-class,2014,20.000 km,Xăng 2.2L,Tự động,Lắp ráp trong nước,Trắng
+306,Toyota, Hiace 2.7MT 2005,280 triệu,Toyota Hiace,2005,260.000 km,Diesel 2.7L,Số sàn,Lắp ráp trong nước,Bạc
+307,Mercedes-Benz, E200 1.8AT 2009,680 triệu,Mercedes-Benz E-class,2009,100.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+308,Toyota, Corolla Altis 1.8AT 2015,755 triệu,Toyota Altis,2015,50.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+309,Mazda, CX-5 2.0AT 2015,820 triệu,Mazda CX-5,2015,9.400 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+310,Mercedes-Benz, E250 AMG 2.0AT 2015,"1,890 tỷ",Mercedes-Benz E-class,2015,18.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+311,Daewoo, Gentra 1.5MT 2007,178 triệu,,2007,110.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Đen
+312,Mitsubishi, Pajero Sport 3.0MT 2012,632 triệu,Mitsubishi Pajero Sport,2012,70.000 km,Diesel 3.0L,Số sàn,Lắp ráp trong nước,Bạc
+313,Toyota,  Fortuner 2.7L 2015,"1,000 tỷ",Toyota Fortuner,2015,25.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Trắng
+314,Audi, A5 2.0AT 2010,"1,080 tỷ",Audi A5,2010,26.000 km,Xăng ,Tự động,Nhập khẩu,Trắng
+315,Mazda, 3 1.6MT 2005,310 triệu,Mazda 3,2005,110.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đỏ đô
+316,BMW,  3 Series 320i 2008,560 triệu,BMW Series 3,2008,95.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+317,BMW,  Series 320i 2.0AT 2014,"1,090 tỷ",BMW Series 3,2014,25.000 km,Xăng ,Tự động,Nhập khẩu,Trắng
+318,Mercedes-Benz, S400 3.0AT 2014,"3,260 tỷ",Mercedes-Benz S-class,2014,37.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Trắng
+319,Daewoo, Lanos 1.5MT 2002,90 triệu,,2002,310.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Trắng
+320,Mazda, 6 2.0AT 2016,870 triệu,Mazda 6,2016,2.500 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Vàng cát
+321,Toyota, Corolla Altis 1.8MT 2001,145 triệu,Toyota Altis,2001,190.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Xanh da trời
+322,Hyundai, Getz 1.1MT 2009,255 triệu,Hyundai Getz,2009,90.000 km,Xăng 1.1L,Số sàn,Lắp ráp trong nước,Bạc
+323,Toyota, Land Cruiser Prado TX-L 2010,"1,456 tỷ",Toyota Land Cruiser Prado,2010,62.000 km,Xăng 2.7L,Tự động,Nhập khẩu,Trắng
+324,Toyota, Innova 2.0E 2013,660 triệu,Toyota Innova,2013,50.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+325,Ford, Everest 2.5MT 2005,305 triệu,Ford Everest,2005,200.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+326,Suzuki, Vitara 1.6AT 2016,756 triệu,Suzuki Vitara,2016,10.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Vàng cát
+327,Toyota, Vios 1.5MT 2003,205 triệu,Toyota Vios,2003,300.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Trắng
+328,Daewoo, Gentra 1.5MT 2007,182 triệu,,2007,100.000 km,Xăng 1.5L,Số sàn,Nhập khẩu,Trắng
+329,Toyota, Innova 2.0MT 2010,540 triệu,Toyota Innova,2010,80.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+330,Mercedes-Benz, GLK220 2.2AT 2014,"1,480 tỷ",Mercedes-Benz GLK-class,2014,20.000 km,Xăng 2.2L,Tự động,Lắp ráp trong nước,Đen
+331,KIA, Morning SLX 1.2AT 2009 ,295 triệu,Kia Morning,2009,120.000 km,Xăng 1.2L,Tự động,Nhập khẩu,Nâu
+332,Daewoo,  Lacetti 1.6AT 2004,156 triệu,,2004,180.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Trắng
+333,Hyundai, i30 CW 1.6AT 2009,450 triệu,Hyundai i30,2009,90.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Bạc
+334,Toyota, Land Cruiser Prado 2.7AT 2009,"1,333 tỷ",Toyota Land Cruiser Prado,2009,80.000 km,Xăng 2.7L,Tự động,Nhập khẩu,Trắng
+335,Toyota, Vios 1.5MT 2010,445 triệu,Toyota Vios,2010,50.600 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Bạc
+336,KIA, Morning 1.2AT 2011,405 triệu,Kia Morning,2011,50.000 km,Xăng 1.2L,Tự động,Nhập khẩu,Trắng
+337,Audi, A5 2.0AT 2013,"1,580 tỷ",Audi A5,2013,30.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+338,Mitsubishi, Pajero Sport 3.0AT 2016,900 triệu,Mitsubishi Pajero Sport,2016,11.000 km,Diesel 3.0L,Tự động,Nhập khẩu,Trắng
+339,Mercedes-Benz, GLK300 3.0AT 2009,860 triệu,Mercedes-Benz GLK-class,2009,85.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Trắng
+340,Mercedes-Benz, GLK250 2.5AT 2014,"1,410 tỷ",Mercedes-Benz GLK-class,2014,51.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Xanh da trời
+341,Toyota, Vios 1.5MT 2011,430 triệu,Toyota Vios,2011,60.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Bạc
+342,KIA, Rio 1.4MT 2009,265 triệu,KIA Rio,2009,100.000 km,Xăng 1.4L,Số sàn,Nhập khẩu,Ghi xám
+343,Mitsubishi, Pajero 3.0MT 2012,636 triệu,Mitsubishi Pajero Sport,2012,55.000 km,Diesel 3.0L,Số sàn,Lắp ráp trong nước,Trắng
+344,Suzuki, Swift 1.5AT 2014,497 triệu,Suzuki Swift,2014,55.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Đỏ
+345,KIA, Morning Van 1.2AT 2009,190 triệu,Kia Morning,2009,30.000 km,Xăng 1.2L,Tự động,Nhập khẩu,Xanh Dương
+346,Mitsubishi, Pajero 3.0AT 2015,785 triệu,Mitsubishi Pajero Sport,2015,32.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Trắng
+347,Mitsubishi, Grandis 2.4AT 2006,490 triệu,Mitsubishi Grandis,2006,75.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Vàng cát
+348,Mitsubishi, Triton 2.5AT 2014,475 triệu,Mitsubishi Triton,2014,32.000 km,Diesel 2.5L,Tự động,Nhập khẩu,Đen
+349,Mitsubishi, Grandis 2.4AT 2006,430 triệu,Mitsubishi Grandis,2006,90.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Vàng cát
+350,Ford, Ranger 3.2AT 2016,820 triệu,Ford Ranger,2016,4.500 km,Diesel 3.2L,Tự động,Nhập khẩu,Cam
+351,Mitsubishi, Zinger 2.4MT 2008,345 triệu,Mitsubishi Zinger,2008,97.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+352,Ford, EcoSport 1.5AT 2014,565 triệu,Ford EcoSport,2014,32.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Ghi xám
+353,Ford, Mondeo 2.3AT 2010,495 triệu,Ford Mondeo,2010,92.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+354,Ford, Mondeo 2.5AT 2004,198 triệu,Ford Mondeo,2004,13.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+355,Ford, Ranger 3.2AT 2014,672 triệu,Ford Ranger,2014,57.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Đen
+356,Ford, Ranger 2.2MT 2015,550 triệu,Ford Ranger,2015,30.000 km,Diesel 2.2L,Số sàn,Nhập khẩu,Đỏ
+357,Ford, Everest 2.5MT 2007,440 triệu,Ford Everest,2007,10.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+358,Ford, Mondeo 2.3AT 2009,495 triệu,Ford Mondeo,2009,52.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+359,Ford, Everest 2.5MT 2005,325 triệu,Ford Everest,2005,92.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+360,Ford, Ranger 3.2AT 2015,685 triệu,Ford Ranger,2015,66.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Cam
+361,Ford, Everest 2.5MT 2008,468 triệu,Ford Everest,2008,87.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+362,Ford, Transit 2.4MT 2013,660 triệu,Ford Transit,2013,72.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+363,Ford, Escape 2.3AT 2004,295 triệu,Ford Escape,2004,98.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+364,Ford, Escape 2.0MT 2013,295 triệu,Ford Escape,2013,125.000 km,Xăng 2.0L,Số sàn,Nhập khẩu,Đen
+365,Ford, Escape 3.0AT 2004,313 triệu,Ford Escape,2004,67.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+366,Ford, Escape 2.3AT 2011,550 triệu,Ford Escape,2011,37.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Bạc
+367,Ford, Escape 3.0AT 2003,221 triệu,Ford Escape,2003,120.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đỏ đô
+368,Ford, Escape 2.3AT 2005,325 triệu,Ford Escape,2005,100.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+369,Mitsubishi, Jolie 2.0MT 2005,245 triệu,Mitsubishi Jolie,2005,110.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Ghi xám
+370,Mitsubishi, Grandis 2.4AT 2006,435 triệu,Mitsubishi Grandis,2006,69.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+371,Mitsubishi, Xe Grandis Mivec 2.4AT ,580 triệu,Mitsubishi Grandis,2009,63.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+372,Mitsubishi, Zinger GLS 2.4MT 2009,405 triệu,Mitsubishi Zinger,2009,50.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+373,KIA, Forte 1.6MT 2012,460 triệu,Kia Forte,2012,30.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Bạc
+374,Ford, Focus 2.0AT 2013,640 triệu,Ford Focus,2013,48.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+375,Toyota, Corolla Altis 1.8G 2009,520 triệu,Toyota Altis,2009,75.693 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+376,Toyota, Innova 2.0V 2008,495 triệu,Toyota Innova,2008,61.667 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+377,Toyota, Innova 2.0G 2008,480 triệu,Toyota Innova,2008,115.300 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+378,Toyota, Innova 2.0MT 2007,415 triệu,Toyota Innova,2007,95.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+379,Honda, Civic 1.8MT 2008,415 triệu,Honda Civic,2008,87.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Ghi xám
+380,Hyundai, Accent 1.4AT 2011,389 triệu,Hyundai Accent,2010,60.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Trắng
+381,Hyundai, Santafe 2.0AT 2011,868 triệu,Hyundai Santafe,2011,30.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Nâu
+382,Hyundai, i20 1.4AT 2011,458 triệu,Hyundai i20,2011,47.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Bạc
+383,Hyundai, Avante 1.6AT 2013,482 triệu,Hyundai Avante,2013,25.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Ghi xám
+384,Toyota, Fortuner V 2012 ,770 triệu,Toyota Fortuner,2012,40.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Đen
+385,Hyundai, Grand i10 1.0MT 2016,389 triệu,Hyundai i10,2016,20.000 km,Xăng 1.0L,Số sàn,Nhập khẩu,Trắng
+386,KIA, Morning Van 1.0AT 2014,295 triệu,Kia Morning,2014,15.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Đỏ
+387,Hyundai, Accent 1.4AT 2013,480 triệu,Hyundai Accent,2013,38.142 km,Xăng 1.4L,Tự động,Nhập khẩu,Trắng
+388,Toyota, Vios E 1.5MT 2012,455 triệu,Toyota Vios,2012,80.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Bạc
+389,Hyundai, Accent 1.4AT 2012,480 triệu,Hyundai Accent,2012,34.300 km,Xăng 1.4L,Tự động,Nhập khẩu,Trắng
+390,Toyota, Innova G 2.0MT 2011,580 triệu,Toyota Innova,2011,110.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+391,Toyota, Highlander SE 2011,"1,400 tỷ",Toyota Highlander,2011,60.000 km,Xăng 2.7L,Tự động,Nhập khẩu,Vàng cát
+392,Hyundai, Accent 1.4AT 2013,485 triệu,Hyundai Accent,2013,52.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Bạc
+393,Honda, CR-V 2.4AT 2009 ,660 triệu,Honda CR-V,2009,70.000 km,Xăng 2.4L,Tự động,Nhập khẩu,Ghi xám
+394,Hyundai, Tucson 2.0AT 2012,690 triệu,Hyundai Tucson,2012,47.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Bạc
+395,Honda, Civic 1.8AT 2008,455 triệu,Honda Civic,2008,50.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+396,Honda, CR-V 2.0AT 2009,659 triệu,Honda CR-V,2009,70.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+397,Hyundai, Santafe 2.2AT 2006,520 triệu,Hyundai Santafe,2006,98.000 km,Xăng 2.2L,Tự động,Nhập khẩu,Ghi xám
+398,Honda, Accord 2.4AT 2008 ,650 triệu,Honda Accord,2008,49.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+399,Honda,  CR-V 2.4AT 2014,990 triệu,Honda CR-V,2014,20.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Trắng
+400,Honda,  City 1.5CVT 2016,595 triệu,Honda City,2016,3.000 km,Xăng 1.5L,Vô cấp,Lắp ráp trong nước,Trắng
+401,Honda, CR-V 2.4AT 2015,"1,050 tỷ",Honda CR-V,2014,20.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Nâu
+402,Honda,  Civic 2.0AT 2009,465 triệu,Honda Civic,2009,60.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+403,Mitsubishi, Grandis 2.4AT 2008,540 triệu,Mitsubishi Grandis,2008,82.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đồng
+404,Ford, Focus 1.6MT 2012,485 triệu,Ford Focus,2012,40.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đồng
+405,Chevrolet, Captiva Maxx 2.4AT LTZ 2009,455 triệu,Chevrolet Captiva,2009,81.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+406,Ford, Everest 2.5AT 2013,755 triệu,Ford Everest,2013,60.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Trắng
+407,Lexus, LX570 5.7AT 2010,"2,950 tỷ",Lexus LX,2010,67.000 km,Xăng 5.7L,Tự động,Nhập khẩu,Bạc
+408,Honda, Civic 2.0AT 2008,475 triệu,Honda Civic,2008,75.990 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+409,Toyota, Camry 2.5AT 2010 ,"1,030 tỷ",Toyota Camry,2010,47.600 km,Xăng 2.5L,Tự động,Nhập khẩu,Đen
+410,Chevrolet, Captiva 2.4MT 2009,415 triệu,Chevrolet Captiva,2009,36.700 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Đen
+411,Ford, Everest 2.5AT 2011,615 triệu,Ford Everest,2011,70.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Đen
+412,KIA, Kia Carens 2.0AT 2007,395 triệu,KIA Carens,2007,80.000 km,Diesel 2.0L,Tự động,Nhập khẩu,Đen
+413,Ford, Focus 1.8AT 2011,460 triệu,Ford Focus,2011,48.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đỏ
+414,Ford, EcoSport 1.5AT 2014,545 triệu,Ford EcoSport,2014,38.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Đỏ
+415,Toyota, Fortuner V 2.7AT 2009,645 triệu,Toyota Fortuner,2009,87.700 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Bạc
+416,Ford, EcoSport 1.5AT 2014,528 triệu,Ford EcoSport,2014,35.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Bạc
+417,KIA, Carens 2.0MT 2012,439 triệu,KIA Carens,2012,60.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Ghi xám
+418,KIA, Rio 1.4AT 2014,515 triệu,KIA Rio,2014,20.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Trắng
+419,KIA, Morning 1.0MT 2011,345 triệu,Kia Morning,2011,45.000 km,Xăng 1.0L,Số sàn,Nhập khẩu,Ghi xám
+420,Toyota, Innova G 2.0MT 2011 ,576 triệu,Toyota Innova,2011,55.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+421,Toyota, Innova G 2.0MT 2012 ,615 triệu,Toyota Innova,2012,190.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+422,Toyota, Innova E  2.0MT 2012 ,615 triệu,Toyota Innova,2012,68.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+423,Toyota, Camry LE 2008 ,728 triệu,Toyota Camry,2008,60.000 km,Xăng 2.4L,Tự động,Nhập khẩu,Đen
+424,Toyota, Camry LE 2008 ,785 triệu,Toyota Camry,2008,52.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Đen
+425,Toyota, Vios  E 1.5MT 2013.,475 triệu,Toyota Vios,2013,52.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Đen
+426,Toyota, Innova E 2.0MT 2014 ,690 triệu,Toyota Innova,2014,50.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+427,Toyota, Innova E  2.0MT 2015 ,715 triệu,Toyota Innova,2015,32.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+428,Toyota, Vios E 1.5MT 2011 ,370 triệu,Toyota Vios,2011,60.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Đen
+429,BMW, Series 3 320i LCI 2015,"1,290 tỷ",BMW Series 3,2015,32.180 km,Xăng 2.0L,Tự động,Nhập khẩu,Xanh Đen
+430,Mercedes-Benz, GL500 4.7AT 2015,"4,650 tỷ",Mercedes-Benz GL-class,2014,58.000 km,Xăng 4.7L,Tự động,Nhập khẩu,Nâu
+431,Mitsubishi, Triton 2.5AT 2015,540 triệu,Mitsubishi Triton,2015,70.000 km,Diesel 2.5L,Tự động,Nhập khẩu,Đen
+432,Toyota, Vios G 1.5MT 2004,198 triệu,Toyota Vios,2004,200.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Vàng cát
+433,Volkswagen, Beetle 2.5AT 2008,620 triệu,Volkswagen Beetle,2008,30.000 km,Xăng 2.5L,Tự động,Nhập khẩu,Vàng
+434,Mitsubishi, Pajero 3.0MT 2005,379 triệu,Mitsubishi Pajero,2005,100.000 km,Xăng 3.0L,Số sàn,Lắp ráp trong nước,Đen
+435,BMW, Series 5 523i F10 2010,"1,170 tỷ",BMW Series 5,2010,38.899 km,Xăng 2.5L,Tự động,Nhập khẩu,Đen
+436,Mercedes-Benz, C-Class C200 2.0AT 2016,"1,380 tỷ",Mercedes-Benz C-class,2016,13.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+437,Mitsubishi, Attrage 1.2AT 2014,419 triệu,Mitsubishi Attrage,2014,49.000 km,Xăng 1.2L,Tự động,Nhập khẩu,Trắng
+438,Ford, Ranger 4x4 2.2MT 2015,550 triệu,Ford Ranger,2014,40.000 km,Diesel 2.2L,Số sàn,Lắp ráp trong nước,Đỏ đô
+439,Mitsubishi, Jolie 2.0MT 2005,248 triệu,Mitsubishi Jolie,2005,85.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Xanh lá
+440,Toyota, Hiace 2.7MT 2005,280 triệu,Toyota Hiace,2005,200.000 km,Diesel 2.7L,Số sàn,Lắp ráp trong nước,Bạc
+441,Mitsubishi, Jolie 2.0MT 2004,235 triệu,Mitsubishi Jolie,2004,120.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Đỏ đô
+442,BMW, Series 5 528i 2006,150 triệu,BMW Series 5,2006,200.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+443,Toyota, Sienna Limited AWD 2015,"3,125 tỷ",Toyota Sienna,2015,8.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Vàng cát
+444,Toyota, Fortuner 2.7V 2015,900 triệu,Toyota Fortuner,2015,20.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Đen
+445,KIA, Rio 1.4AT 2016,565 triệu,KIA Rio,2016,25.000 km,Xăng 1.4L,Tự động,Lắp ráp trong nước,Đỏ
+446,Ford, Laser 1.8MT 2002,200 triệu,Ford Laser,2002,125.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+447,Ford, Ranger 3.2AT 2016,848 triệu,Ford Ranger,2016,18.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Trắng
+448,Ford, Everest 2.5MT 2008,455 triệu,Ford Everest,2008,67.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+449,Ford, Escape 2.3AT 2004,280 triệu,Ford Escape,2004,82.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+450,Ford, Laser 1.8MT 2003,223 triệu,Ford Laser,2003,20.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Bạc
+451,Ford, Everest 2.5MT 2011,600 triệu,Ford Everest,2011,42.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+452,Toyota, Highlander 3.5AT 2007,798 triệu,Toyota Highlander,2007,72.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Đen
+453,Land Rover, Range Rover Sport 5.0AT 2010,"2,100 tỷ",Land Rover All New Range Rover Sport,2010,35.000 km,Xăng 5.0L,Tự động,Nhập khẩu,Trắng
+454,Honda, Accord 2.0MT 1989,75 triệu,Honda Accord,1989,20.000 km,Xăng 2.0L,Số sàn,Nhập khẩu,Đen
+455,Honda, Accord 2.2MT 1992,120 triệu,Honda Accord,1992,270.000 km,Xăng 2.2L,Số sàn,Nhập khẩu,Xanh lá
+456,Daewoo, Nubira 1.6AT 2002,110 triệu,,2002,19.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Đen
+457,Audi, Q3 2.0AT 2012,"1,280 tỷ",Audi Q3,2012,30.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+458,Mercedes-Benz, C200 2.0AT 2015 ,"1,320 tỷ",Mercedes-Benz C-class,2015,30.600 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+459,Mercedes-Benz, E250 CGI 1.8AT 2010,"1,030 tỷ",Mercedes-Benz E-class,2010,40.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+460,Mercedes-Benz, E250 AMG 2.0AT 2015,"1,950 tỷ",Mercedes-Benz E-class,2015,29.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Nâu
+461,Mazda, 3 1.6MT 2004,320 triệu,Mazda 3,2004,130.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Trắng
+462,Mazda, 2 1.5AT 2016,567 triệu,Mazda 2,2016,7.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+463,Hyundai, Tucson 2.0AT 2015,950 triệu,Hyundai Tucson,2015,32.789 km,Xăng 2.0L,Tự động,Nhập khẩu,Đỏ
+464,KIA, Sorento 2.4AT 2015,895 triệu,KIA Sorento,2015,27.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Trắng
+465,KIA, Morning 1.25AT 2015,390 triệu,Kia Morning,2015,16.000 km,Xăng 1.25L,Tự động,Lắp ráp trong nước,Bạc
+466,KIA, Morning Van 1.0AT 2013,272 triệu,Kia Morning,2013,1.560 km,Xăng 1.0L,Tự động,Nhập khẩu,Bạc
+467,KIA, Morning 1.25AT 2015,393 triệu,Kia Morning,2015,33.000 km,Xăng 1.25L,Tự động,Lắp ráp trong nước,Đỏ
+468,KIA, Rio 1.4AT 2015,465 triệu,KIA Rio,2015,9.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Bạc
+469,Toyota, Camry Q 2.5AT 2013,"1,019 tỷ",Toyota Camry,2013,29.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Vàng cát
+470,Toyota, Fortuner G 2.5MT 2014,900 triệu,Toyota Fortuner,2014,50.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+471,Toyota, Yaris 1.5AT 2011,510 triệu,Toyota Yaris,2011,30.000 km,Xăng 1.5L,Tự động,Nhập khẩu,Bạc
+472,Toyota,  Fortuner V 2.7AT 2009,640 triệu,Toyota Fortuner,2009,87.700 km,Diesel 2.7L,Tự động,Lắp ráp trong nước,Bạc
+473,Toyota, Camry E 2.0AT 2013,840 triệu,Toyota Camry,2013,50.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Vàng cát
+474,Toyota, Fortuner 2.5MT 2013,750 triệu,Toyota Fortuner,2013,45.000 km,Xăng 2.5L,Số sàn,Lắp ráp trong nước,Đen
+475,Toyota, Innova 2.0MT 2009,510 triệu,Toyota Innova,2009,120.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+476,Ford, Focus S 2.0AT 2014,680 triệu,Ford Focus,2014,26.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Nâu
+477,Ford, Everest 2.5MT 2012,615 triệu,Ford Everest,2012,84.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+478,Ford, Focus 2.0AT 2015,699 triệu,Ford Focus,2.0L,29.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+479,Toyota, Camry 2.0 E 2015,"1,000 tỷ",Toyota Camry,2015,7.600 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Vàng cát
+480,Ford, Everest Limited 2009,620 triệu,Ford Everest,2009,95.000 km,Diesel 2.5L ,Tự động,Lắp ráp trong nước,Ghi xám
+481,Hyundai, Sonata 2.0AT 2010,639 triệu,Hyundai Sonata,2010,60.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+482,Hyundai, Santafe 2.0AT 2008,599 triệu,Hyundai Santafe,2008,76.000 km,Diesel 2.0L,Tự động,Nhập khẩu,Đen
+483,Toyota, Yaris RS 2013 ,545 triệu,Toyota Yaris,2013,36.000 km,Xăng 1.5L,Tự động,Nhập khẩu,Trắng
+484,Mazda, CX-9 AWD 3.7AT 2012,"1,166 tỷ",Mazda CX-9,2012,50.000 km,Xăng 3.7L,Tự động,Nhập khẩu,Xanh Đen
+485,Ford, Everest 2.5AT 2012,615 triệu,Ford Everest,2012,84.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Đen
+486,Ford, Focus S 2.0AT 2015,699 triệu,Ford Focus,2015,29.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+487,Mazda, 3 1.6AT 2011,505 triệu,Mazda 3,2011,37.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Trắng
+488,Nissan, Navara 2.5MT 2015,625 triệu,Nissan Navara,2015,55.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Ghi xám
+489,Mazda, 2S 1.5AT 2013,465 triệu,Mazda 2,2013,38.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+490,Mazda, BT-50 3.2AT 2014,650 triệu,Mazda BT-50,2014,30.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Vàng cát
+491,Mazda, 6 2.0AT 2015,810 triệu,Mazda 6, 2015,10.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đỏ đô
+492,Mazda, 3 2.0AT 2016,750 triệu,Mazda 3,2016,15.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+493,Mazda, 3 1.5AT 2015,650 triệu,Mazda 3,2015,18.000 km,Xăng 1.5L,Tự động,Nhập khẩu,Trắng
+494,Mazda, 6 2.0AT 2011,655 triệu,Mazda 6,2011,48.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Bạc
+495,Mazda, 3 2.0AT 2016,749 triệu,Mazda 3,2016,15.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+496,Hyundai, i10 1.2AT 2011 ,309 triệu,Hyundai i10,2010,36.000 km,Xăng 1.2L,Tự động,Nhập khẩu,Xanh Dương
+497,Hyundai, Avante GDI 1.6AT 2010,650 triệu,Hyundai Avante,2010,40.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Đen
+498,KIA, Morning Si 1.25AT 2015,393 triệu,Kia Morning,2015,32.000 km,Xăng 1.25L,Tự động,Lắp ráp trong nước,Đỏ
+499,Honda, Civic1.8AT 2008,430 triệu,Honda Civic,2008,145.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+500,Honda, Civic 2.0AT 2007,420 triệu,Honda Civic,2007,76.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+501,Ford, Fiesta S 1.6AT 2012,419 triệu,Ford Fiesta,2012,56.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Vàng cát
+502,Honda, Accord 2.0MT 1987,65 triệu,Honda Accord,1987,400.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Đen
+503,Hyundai, Accent 1.4AT 2011,460 triệu,Hyundai Accent,2010,55.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Bạc
+504,Hyundai, Huyndai Accent 1.4AT 2012,540 triệu,Hyundai Accent,2012,6.176 km,Xăng 1.4L,Tự động,Nhập khẩu,Trắng
+505,Hyundai, i20 Active 1.4AT 2015,575 triệu,Hyundai i20,2015,10.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Đỏ đô
+506,Hyundai, Getz 1.1MT 2009,285 triệu,Hyundai Getz,2009,70.000 km,Xăng 1.1L,Số sàn,Nhập khẩu,Xanh lá
+507,Chevrolet, Cruze LTZ 1.8AT 2015,580 triệu,Chevrolet Cruze  ,2015,32.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Ghi xám
+508,Chevrolet, Cruze LT 1.6MT 2016,535 triệu,Chevrolet Cruze  ,2016,10.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Bạc
+509,Chevrolet, Chevlolet Spark LT 1.2MT 2012,250 triệu,Chevrolet Spark,2012,30.000 km,Xăng 1.2L,Số sàn,Lắp ráp trong nước,Bạc
+510,Chevrolet, Cruze 1.6MT 2016,519 triệu,Chevrolet Cruze  ,2016,25.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+511,Chevrolet, Captiva Maxx 2.0MT 2010,486 triệu,Chevrolet Captiva,2010,65.000 km,Diesel 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+512,Chevrolet, Captiva 2.4AT 2009,450 triệu,Chevrolet Captiva,2009,130.000 km,Diesel 2.4L,Tự động,Lắp ráp trong nước,Vàng cát
+513,Chevrolet, Cruze LT 1.6MT 2016,528 triệu,Chevrolet Cruze  ,2016,10.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+514,Chevrolet, Vivant 2.0MT 2009,250 triệu,Chevrolet Vivant ,2009,91.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+515,Chevrolet, Aveo LTZ 1.5AT 2016,445 triệu,Chevrolet Aveo,2016,20.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+516,Chevrolet, Spark 1.2MT 2009,152 triệu,Chevrolet Spark,2009,65.000 km,Xăng 1.2L,Số sàn,Lắp ráp trong nước,Ghi xám
+517,Chevrolet, Aveo 1.5MT 2016,390 triệu,Chevrolet Aveo,2016,15.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Trắng
+518,Chevrolet, Spark Van 1.2MT 2016,240 triệu,Chevrolet Spark Van,2016,9.414 km,Xăng 1.2L,Số sàn,Lắp ráp trong nước,Đỏ
+519,Chevrolet, Cruze LS 1.6MT 2015	,505 triệu,Chevrolet Cruze  ,2015,15.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Trắng
+520,Chevrolet, Cruze LS 1.6MT 2015,485 triệu,Chevrolet Cruze  ,2015,37.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Vàng cát
+521,Chevrolet, Spark LS 1.2MT 2016,360 triệu,Chevrolet Spark,2016,6.600 km,Xăng 1.2L,Số sàn,Lắp ráp trong nước,Trắng
+522,Mazda, 6 2.0MT 2004,295 triệu,Mazda 6,2004,117.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+523,Chevrolet, Spark Duo 1.2MT 2016,235 triệu,Chevrolet Spark Duo,2016,14.000 km,Xăng 1.2L,Số sàn,Lắp ráp trong nước,Bạc
+524,Mazda, 6 2.0MT 2003,280 triệu,Mazda 6,2003,8.000 km,Xăng 2.0L,Số sàn,Nhập khẩu,Hồng phấn
+525,Chevrolet, Cruze LTZ 1.8AT 2011,430 triệu,Chevrolet Cruze  ,2011,50.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Vàng cát
+526,Chevrolet, Cruze LT 1.6MT 2016,515 triệu,Chevrolet Cruze  ,2016,6.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đỏ
+527,Mazda, Premacy 1.8AT 2005,282 triệu,Mazda Premacy,2005,98.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Nâu
+528,Chevrolet, Vivant 2.0AT 2009,265 triệu,Chevrolet Vivant ,2009,61.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+529,Mazda, 6 2.0AT 2015,820 triệu,Mazda 6,2015,18.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+530,Mazda, BT-50 3.2AT 2014,630 triệu,Mazda BT-50,2014,68.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Ghi xám
+531,Chevrolet, Captiva 2.4AT 2007,375 triệu,Chevrolet Captiva,2007,80.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Vàng cát
+532,Mazda, 3S 1.5AT 2013,565 triệu,Mazda 3,2013,45.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Bạc
+533,Toyota, Innova G 2008 ,470 triệu,Toyota Innova,2008,180.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+534,Mazda, Premacy 1.8AT 2003,255 triệu,Mazda Premacy,2003,115.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Xanh da trời
+535,Ford, Focus 1.8AT 2011 ,425 triệu,Ford Focus,2011,30.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+536,Mazda, 2S 1.5AT 2014,428 triệu,Mazda 2,2014,42.000 km,Xăng 1.5L,Tự động,Nhập khẩu,Bạc
+537,Honda, Civic 1.8AT 2011,535 triệu,Honda Civic,2010,50.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+538,KIA, Cerato 1.6 AT 2010,500 triệu,Kia Cerato,2010,55.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Bạc
+539,Toyota, Fortuner 2.7AT 2013,765 triệu,Toyota Fortuner,2013,40.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Bạc
+540,Toyota, Innova 2.0AT 2010,565 triệu,Toyota Innova,2010,70.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+541,Mazda, 6 2.0AT 2016,910 triệu,Mazda 6,2016,4.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+542,Toyota, Fortuner 2.7AT 2012,778 triệu,Toyota Fortuner,2012,49.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Bạc
+543,Ford, Ranger 2.2AT 2014,565 triệu,Ford Ranger,2014,56.000 km,Diesel 2.2L,Tự động,Nhập khẩu,Xanh da trời
+544,Ford, Ranger 2.5MT 2007,260 triệu,Ford Ranger,2007,125.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+545,Ford, Laser 1.8AT 2002,227 triệu,Ford Laser,2002,110.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+546,Ford, Escape 2.3AT 2009,475 triệu,Ford Escape,2009,77.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Ghi xám
+547,Ford, Ranger 2.5MT 2009,330 triệu,Ford Ranger,2009,110.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Vàng cát
+548,Ford, Everest 2.5MT 2005,345 triệu,Ford Everest,2005,93.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+549,Ford, Escape 2.0MT 2003,295 triệu,Ford Escape,2003,125.000 km,Xăng 2.0L,Số sàn,Nhập khẩu,Đen
+550,Ford, Focus 1.8AT 2009,355 triệu,Ford Focus,2009,82.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Vàng cát
+551,Ford, Ranger 2.2MT 2014,518 triệu,Ford Ranger,2014,62.000 km,Diesel 2.2L,Số sàn,Nhập khẩu,Vàng cát
+552,Ford, Transit 2.4MT 2013,560 triệu,Ford Transit,2013,83.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+553,Ford, Ranger 2.2AT 2016,590 triệu,Ford Ranger,2016,11.000 km,Diesel 2.2L,Tự động,Nhập khẩu,Trắng
+554,Ford, Ranger 2.2AT 2014,565 triệu,Ford Ranger,2014,56.000 km,Diesel 2.2L,Tự động,Nhập khẩu,Bạc
+555,Ford, Everest 2.5MT 2008,438 triệu,Ford Everest,2008,120.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+556,Ford, Ranger 2.5MT 2011,372 triệu,Ford Ranger,2011,15.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Trắng
+557,Ford, Laser 1.8MT 2003,235 triệu,Ford Laser,2003,20.000 km,Xăng 1.8L,Số sàn,Nhập khẩu,Đen
+558,Ford, Transit 2.4MT 2007,323 triệu,Ford Transit,2007,330.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Trắng
+559,KIA, Morning 1.25AT 2011,383 triệu,Kia Morning,2011,52.000 km,Xăng 1.25L,Tự động,Nhập khẩu,Xanh da trời
+560,KIA, Cerato Koup 2.0AT 2015,735 triệu,Kia Cerato,2015,22.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đỏ
+561,Nissan, Grand livina 1.8AT 2011,433 triệu,Nissan Grand Livina,2011,42.000 km,Xăng 1.8L,Tự động,Nhập khẩu,Ghi xám
+562,Nissan, Sunny 1.5AT 2014,479 triệu,Nissan Sunny, 2014,35.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Ghi xám
+563,Nissan, Grand Livina 1.8MT 2012,435 triệu,Nissan Grand Livina,2012,38.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+564,Nissan, Sunny 1.5MT 2013,420 triệu,Nissan Sunny, 2013,4.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Nâu
+565,Nissan, Navara 2.5MT 2012,450 triệu,Nissan Navara,2012,92.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Ghi xám
+566,Nissan, Teana 2.0AT 2009	,595 triệu,Nissan Teana,2009	,105.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+567,Mazda, CX-5 2.5AT 2016	,909 triệu,Mazda CX-5,2016,3.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Trắng
+568,Mazda, 323 1.6MT 1998,157 triệu,, 1998,87.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Bạc
+569,Mazda, 6 2.0MT 2004,315 triệu,Mazda 6, 2004,115.000 km,Xăng 2.0L,Số sàn,Nhập khẩu,Đỏ
+570,Toyota, Camry G 2.4AT 2011,815 triệu,Toyota Camry,2010,60.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+571,Toyota,  Vios E 1.5MT 2016,564 triệu,Toyota Vios,2016,1.200 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Màu Kem
+572,KIA, Morning 1.0MT 2016,355 triệu,Kia Morning,2016,12.000 km,Xăng 1.0L,Số sàn,Lắp ráp trong nước,Đỏ
+573,KIA, Sorento 2.4AT 2014,845 triệu,KIA Sorento,2014,36.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Trắng
+574,Daewoo, Lacetti SE 1.6AT 2011,360 triệu,,2009,80.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Xanh da trời
+575,Nissan, Teana 2.0CVT 2009,598 triệu,Nissan Teana,2009,60.000 km,Xăng 2.0L,Vô cấp,Nhập khẩu,Đen
+576,Honda, City 1.5AT 2016,592 triệu,Honda City,2016,2.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Đỏ đô
+577,Honda, Civic 1.8AT 2008,450 triệu,Honda Civic,2008,51.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Ghi xám
+578,Honda, City 1.5AT 2016,615 triệu,Honda City,2016,4.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Ghi xám
+579,Honda, CR-V 2.4AT 2010,740 triệu,Honda CR-V,2010,50.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+580,Honda, Accord 2.4AT 2013,890 triệu,Honda Accord,2013,45.000 km,Xăng 2.4L,Tự động,Nhập khẩu,Trắng
+581,Ford, Escape 2.3AT 2011,635 triệu,Ford Escape,2011,52.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Ghi xám
+582,Ford, Laser 1.6MT 2000,139 triệu,Ford Laser,2000,20.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Xanh lá
+583,Ford, Mondeo 2.5AT 2003,235 triệu,Ford Mondeo,2003,12.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+584,Ford, Everest 2.5AT 2008,460 triệu,Ford Everest,2008,157.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Vàng cát
+585,Ford, Transit 2.4MT 2011,458 triệu,Ford Transit,2011,135.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+586,Ford, Everest 2.5MT 2009,585 triệu,Ford Everest,2009,43.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+587,Ford, Mondeo 2.3AT 2009,495 triệu,Ford Mondeo,2009,52.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+588,Ford, Laser 1.6MT 2004,225 triệu,Ford Laser,2004,120.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+589,Ford, Everest 2.5MT 2011,665 triệu,Ford Everest,2011,53.000 km,Xăng 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+590,Ford, Everest 2.5MT 2015,778 triệu,Ford Everest,2015,42.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+591,Ford, EcoSport 1.5AT 2014,535 triệu,Ford EcoSport,2014,35.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Ghi xám
+592,Ford, Escape 2.3AT 2003,205 triệu,Ford Escape,2003,15.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Vàng cát
+593,Ford, Ranger 2.5MT 2007,238 triệu,Ford Ranger,2007,10.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+594,Ford, Ranger 2.2MT 2016,595 triệu,Ford Ranger,2016,13.000 km,Diesel 2.2L,Số sàn,Nhập khẩu,Trắng
+595,Ford, Everest 2.5AT 2010,580 triệu,Ford Everest,2010,79.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Ghi xám
+596,Ford, Escape 2.3AT 2003,199 triệu,Ford Escape,2003,30.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Vàng cát
+597,Ford, Escape 2.3AT 2011,545 triệu,Ford Escape,2011,67.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Bạc
+598,Ford, Ranger 3.2AT 2015,796 triệu,Ford Ranger,2015,34.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Trắng
+599,Ford, Everest 2.5AT 2014,755 triệu,Ford Everest,2014,52.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Đen
+600,Ford, Everest 2.5MT 2006,325 triệu,Ford Everest,2006,110.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+601,Mazda, 323 1.6MT 2002,220 triệu,, 2002,115.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+602,Mazda, 3 1.6AT 2010,485 triệu,Mazda 3,2010,73.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Đỏ
+603,Mazda, BT-50 2.2AT 2015,675 triệu,Mazda BT-50,2015,22.000 km,Diesel 2.2L,Tự động,Nhập khẩu,Xanh da trời
+604,Mazda, 3 1.5AT 2015,679 triệu,Mazda 3, 2015,27.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+605,Mazda, Premacy 1.8AT 2003	,255 triệu,Mazda Premacy, 2003,105.000 km,Xăng 1.8L	,Tự động,Lắp ráp trong nước,Xanh da trời
+606,Mazda, CX-9 3.7AT 2015,"1,620 tỷ",Mazda CX-9,2015,17.000 km,Xăng 3.7L,Tự động,Nhập khẩu,Bạc
+607,Mazda, CX-5 2.5AT AWD 2016,981 triệu,Mazda CX-5,2016,3.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Trắng
+608,Mazda, 3 1.5AT 2015,679 triệu,Mazda 3,2015,17.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Xanh da trời
+609,Mazda, CX-5 2.0AT 2017,879 triệu,Mazda CX-5, 2017,3.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+610,KIA, Cerato 1.6AT 2010,425 triệu,Kia Cerato,2010,70.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Đen
+611,KIA, Cerato 1.6AT 2010,490 triệu,Kia Cerato,2010,70.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Đỏ
+612,KIA, Cerato 1.6AT 2011,505 triệu,Kia Cerato,2011,56.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Bạc
+613,KIA, Forte 1.6AT 2011,435 triệu,Kia Forte,2011,51.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Ghi xám
+614,KIA, Morning Van 1.0AT 2013,276 triệu,Kia Morning,2013,28.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Xanh da trời
+615,BMW, 320i 2.0AT 2016,"1,350 tỷ",BMW Series 3,2016,7.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+616,Chevrolet, Captiva LT 2.4MT 2008,375 triệu,Chevrolet Captiva,2008,60.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+617,KIA, Morning 1.0AT 2010,179 triệu,Kia Morning,2010,20.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Bạc
+618,Mercedes-Benz,  GLK250 2.0AT 2014,"1,400 tỷ",Mercedes-Benz GLK-class,2014,32.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Xanh Dương
+619,Lexus, RX 350 3.5AT 2010 ,"2,150 tỷ",Lexus RX,2010,66.000 km,Xăng 3.5L,Tự động,Lắp ráp trong nước,Trắng
+620,Toyota, Yaris E 1.3AT 2015,570 triệu,Toyota Yaris,2014,12.000 km,Xăng 1.3L,Tự động,Lắp ráp trong nước,Trắng
+621,Lexus, GX460 4.6AT 2011,"2,960 tỷ",Lexus GX,2010,80.000 km,Xăng 4.6L,Tự động,Nhập khẩu,Đen
+622,Toyota, Corolla Altis 1.8MT 2014,695 triệu,Toyota Altis,2013,33.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Tím nhạt
+623,Mercedes-Benz, C-Class C200 1.8AT 2011,855 triệu,Mercedes-Benz C-class,2011,60.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Trắng
+624,Audi, Q5 2.0AT 2012,"1,650 tỷ",Audi Q5,2012,50.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+625,Chevrolet, Spark 1.2MT 2010,140 triệu,Chevrolet Spark,2010,90.000 km,Xăng 1.2L,Số sàn,Lắp ráp trong nước,Trắng
+626,Chevrolet, Spark LTZ 1.0AT 2015,317 triệu,Chevrolet Spark,2015,30.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Đỏ
+627,Chevrolet, Captiva LTZ 2.4AT 2008,395 triệu,Chevrolet Captiva,2008,50.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+628,Chevrolet, Captiva LT 2.4MT 2007,368 triệu,Chevrolet Captiva,2007,68.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+629,Chevrolet, Cruze 1.6MT 2014,440 triệu,Chevrolet Cruze  ,2014,17.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+630,Chevrolet, Captiva LT 2.4MT 2009,425 triệu,Chevrolet Captiva,2009,70.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Đen
+631,Chevrolet, Captiva LTZ 2.4AT 2010,495 triệu,Chevrolet Captiva,2010,48.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+632,Chevrolet, Cruze LTZ 1.8AT 2015,608 triệu,Chevrolet Cruze  ,2015,10.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+633,Chevrolet, Captiva LTZ 2.4AT 2014,645 triệu,Chevrolet Captiva,2014,40.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+634,Chevrolet, Colorado 2.5MT 2015	,520 triệu,Chevrolet Colorado,2015,18.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Ghi xám
+635,Chevrolet, Spark LTZ 1.0AT 2015,338 triệu,Chevrolet Spark,2015,18.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Trắng
+636,Chevrolet, Cruze LT 1.6MT 2016,525 triệu,Chevrolet Cruze  ,2016,17.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Trắng
+637,Chevrolet, Cruze LT 1.6MT 2016,509 triệu,Chevrolet Cruze  ,2016,7.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Vàng cát
+638,Chevrolet, Cruze LTZ 1.8AT 2014,495 triệu,Chevrolet Cruze  ,2014,26.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+639,Nissan, Teana 2.0AT 2010,650 triệu,Nissan Teana,2010,35.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+640,Nissan, Navara 2.5MT 2013,470 triệu,Nissan Navara,2013,50.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Ghi xám
+641,Nissan, Navara LE 2.5MT 2013	,135 triệu,Nissan Navara,2013,30.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Bạc
+642,Mazda, MAZDA 2 S 1.5AT 2014,485 triệu,Mazda 2,2014,27.000 km,Xăng 1.5L,Tự động,Nhập khẩu,Ghi xám
+643,Mazda, CX5 2.0AT 2015,850 triệu,Mazda CX-5,2015,30.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đỏ đô
+644,Mazda, 3S 1.6AT 2014,610 triệu,Mazda 3,2014,20.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Trắng
+645,Mazda, CX5 2.0AT 2015,890 triệu,Mazda CX-5,2015,22.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+646,Chevrolet, Cruze LS 1.6MT 2015,485 triệu,Chevrolet Cruze  ,2015,37.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Vàng cát
+647,Chevrolet, Captiva LTZ 2.4AT 2011,515 triệu,Chevrolet Captiva,2011,81.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Vàng cát
+648,Chevrolet, Spark LTZ 1.0AT 2015,345 triệu,Chevrolet Spark,2015,53.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Bạc
+649,Chevrolet, Cruze LT 1.6MT 2016,539 triệu,Chevrolet Cruze  ,2016,25.000 km,Diesel 1.6L,Số sàn,Lắp ráp trong nước,Trắng
+650,Chevrolet, Cruze LTZ 1.8AT 2015,582 triệu,Chevrolet Cruze  ,2015,32.300 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+651,Chevrolet, Spark 1.0AT 2009,239 triệu,Chevrolet Spark,2009,69.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Xanh lá
+652,Chevrolet, Cruze LTZ 1.8AT 2015,612 triệu,Chevrolet Cruze  ,2015,11.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+653,Chevrolet, Cruze LS 1.6MT 2012	,435 triệu,Chevrolet Cruze  ,2012,51.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Vàng cát
+654,Chevrolet, Captiva LTZ 2.4AT 2011,515 triệu,Chevrolet Captiva,2011,45.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+655,Mazda, 3s 1.6AT 2014,659 triệu,Mazda 3,2014,28.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Đen
+656,Mazda, 2S 1.5AT 2014,528 triệu,Mazda 2,2014,11.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+657,Nissan, Grand Livina 1.8MT 2012,425 triệu,Nissan Grand Livina,2012,30.000 km,Xăng 1.8L,Số sàn,Nhập khẩu,Ghi xám
+658,Mazda, 3S 1.6AT 2014,669 triệu,Mazda 3,2014,20.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Trắng
+659,Ford, Transit 2.4MT 2015,750 triệu,Ford Transit,2015,35.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+660,Ford, Everest 2.5MT 2008,462 triệu,Ford Everest,2008,72.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+661,Ford, Everest 2.5AT 2013,752 triệu,Ford Everest,2013,47.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Hồng phấn
+662,Ford, Escape 2.3AT 2002,295 triệu,Ford Escape,2002,82.000 km,Xăng 2.3L,Tự động,Nhập khẩu,Trắng
+663,Ford, Escape 2.3AT 2007,295 triệu,Ford Escape,2007,63.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+664,Ford, Ranger 3.2AT 2015,797 triệu,Ford Ranger,2015,12.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Trắng
+665,Ford, Escape 3.0AT 2003,218 triệu,Ford Escape,2003,30.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+666,Ford, Focus 1.8MT 2014,500 triệu,Ford Focus,2014,47.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+667,Ford, Ranger 2.2MT 2004,250 triệu,Ford Ranger,2004,110.000 km,Diesel 2.2L,Số sàn,Nhập khẩu,Vàng cát
+668,Ford, Everest 2.5AT 2009,569 triệu,Ford Everest,2009,81.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Đen
+669,Ford, Laser 1.8MT 2001,177 triệu,Ford Laser,2001,160.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Trắng
+670,Ford, Everest 2.5MT 2011,605 triệu,Ford Everest,2011,30.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Ghi xám
+671,Ford, Laser 1.6MT 2000,145 triệu,Ford Laser,2000,15.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Xanh Đen
+672,KIA, Sorento 2.4AT 2010,645 triệu,KIA Sorento,2010,70.000 km,Xăng 2.4L,Tự động,Nhập khẩu,Vàng
+673,KIA, Rio 1.4AT 2014,505 triệu,KIA Rio,2014,20.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Trắng
+674,Toyota, Fortuner 2.7AT 2012,785 triệu,Toyota Fortuner,2012,50.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Bạc
+675,Toyota, Vios 1.5MT 2005,218 triệu,Toyota Vios,2005,15.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Vàng cát
+676,Toyota, Vios 1.5MT 2005,188 triệu,Toyota Vios,2005,200.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Đen
+677,Mercedes-Benz, C-class C200 2.0AT 2016,"1,380 tỷ",Mercedes-Benz C-class,2016,13.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+678,Ford, Ranger 2.2MT 2002,225 triệu,Ford Ranger,2002,120.000 km,Diesel 2.2L,Số sàn,Lắp ráp trong nước,Vàng cát
+679,KIA, Carnival 2.5AT 2008,380 triệu,KIA Carnival,2008,60.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+680,KIA, Grand Sedona 3.3 GATH 2016,"1,200 tỷ",KIA Sedona,2016,6.000 km,Xăng 3.3L,Tự động,Nhập khẩu,Vàng cát
+681,Toyota, Altis 1.8MT 2009,530 triệu,Toyota Altis,2009,97.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+682,Mercedes-Benz, C200 2.0AT 2015,"1,330 tỷ",Mercedes-Benz C-class,2015,28.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+683,Chevrolet, Captiva LT 2.4MT 2007,350 triệu,Chevrolet Captiva,2007,79.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Vàng cát
+684,Chevrolet, Cruze LTZ 1.8AT 2011,430 triệu,Chevrolet Cruze  ,2011,50.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Vàng cát
+685,Chevrolet, Cruze LTZ 1.8AT 2013,460 triệu,Chevrolet Cruze  ,2013,42.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+686,Chevrolet, Captiva LTZ  2.0AT 2009,435 triệu,Chevrolet Captiva,2009,67.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+687,Chevrolet, Cruze LS 1.6MT 2010,377 triệu,Chevrolet Cruze  ,2010,65.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+688,Chevrolet, Cruze LTZ 1.8AT 2015,580 triệu,Chevrolet Cruze  ,2015,8.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+689,Chevrolet, Vivant 2.0MT 2009,250 triệu,Chevrolet Vivant ,2009,91.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+690,Ford, Focus 1.8AT 2011,470 triệu,Ford Focus,2011,25.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+691,Ford, Everest 2.5AT 2013,755 triệu,Ford Everest,2013,30.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Trắng
+692,Ford, Everest 2.5MT 2006,365 triệu,Ford Everest,2006,120.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+693,Ford, Everest 2.5MT 2011,580 triệu,Ford Everest,2011,83.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+694,Ford, Everest 2.5MT 2008,475 triệu,Ford Everest,2008,92.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+695,Ford, Transit 2.4MT 2002,100 triệu,Ford Transit,2002,380.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Trắng
+696,Ford, Escape 3.0AT 2004,245 triệu,Ford Escape,2004,95.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+697,Ford, Ranger 2.5MT 2013,570 triệu,Ford Ranger,2013,62.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Bạc
+698,Ford, Focus 1.8MT 2008,315 triệu,Ford Focus,2008,70.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+699,Ford, Everest 2.5MT 2008,438 triệu,Ford Everest,2008,92.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Đen
+700,Ford, Escape 3.0AT 2003,235 triệu,Ford Escape,2003,110.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+701,Ford, Transit 2.4MT 2013,580 triệu,Ford Transit,2013,12.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+702,Hyundai, Sonata 2.0AT 2010,605 triệu,Hyundai Sonata,2010,65.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+703,KIA, Morning 1.25MT 2012,233 triệu,Kia Morning,2012,19.000 km,Xăng 1.25L,Số sàn,Lắp ráp trong nước,Vàng
+704,Chevrolet, Spark 1.0MT 2009,170 triệu,Chevrolet Spark,2009,100.000 km,Xăng 1.0L,Số sàn,Lắp ráp trong nước,Đỏ
+705,Chevrolet, Captiva LTZ 2.4AT 2016,725 triệu,Chevrolet Captiva,2016,20.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Trắng
+706,Chevrolet, Captiva LTZ 2.4AT 2011,512 triệu,Chevrolet Captiva,2011,80.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Vàng cát
+707,Chevrolet, Captiva LTZ 2.4AT 2007,375 triệu,Chevrolet Captiva,2007,65.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+708,Chevrolet, Captiva 2.4MT 2007	,354 triệu,Chevrolet Captiva,2007	,92.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Xanh Đen
+709,Chevrolet, Cruze LS 1.6MT 2015,522 triệu,Chevrolet Cruze  ,2015,20.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Trắng
+710,Toyota, Camry LE 2.5AT 2010,980 triệu,Toyota Camry,2010,55.000 km,Xăng 2.5L,Tự động,Nhập khẩu,Đen
+711,Toyota, Camry G 2.4AT 2009,720 triệu,Toyota Camry,2009,80.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+712,Toyota, Vios G 1.5AT 2015,565 triệu,Toyota Vios,2015,47.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Vàng cát
+713,Toyota, Innova E 2.0MT 2015,745 triệu,Toyota Innova,2015,65.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Bạc
+714,Ford, Escape 3.0AT 2005,310 triệu,Ford Escape,2005,250.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+715,Ford, Ranger 2.5MT 2009,385 triệu,Ford Ranger,2009,10.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Đen
+716,Ford, Focus 1.8AT 2011,449 triệu,Ford Focus,2011,50.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+717,Honda, Civic 1.8MT 2008,392 triệu,Honda Civic,2008,58.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+718,Ford, Mondeo 2.5AT 2003,160 triệu,Ford Mondeo,2003,20.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+719,Ford, Focus 1.8AT 2009,420 triệu,Ford Focus,2009,37.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+720,Ford, Fiesta 1.6AT 2013,480 triệu,Ford Fiesta,2013,44.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Trắng
+721,Honda, Civic 1.8MT 2006,386 triệu,Honda Civic,2006,75.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đỏ
+722,Ford, Focus 1.8AT 2012,465 triệu,Ford Focus,2012,42.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+723,Ford, Everest 2.5MT 2014,775 triệu,Ford Everest,2014,43.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Vàng cát
+724,Ford, Focus 2.0AT 2007,395 triệu,Ford Focus,2007,95.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Bạc
+725,Ford, Ranger 2.5AT 2015,610 triệu,Ford Ranger,2015,15.000 km,Diesel 2.5L,Tự động,Nhập khẩu,Vàng cát
+726,Ford, Laser 1.8MT 2005,265 triệu,Ford Laser,2005,87.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+727,Ford, Escape 2.3AT 2011,540 triệu,Ford Escape,2011,77.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Bạc
+728,Ford, Escape 3.0AT 2005,295 triệu,Ford Escape,2005,75.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đỏ
+729,Ford, Escape 2.3AT 2012,545 triệu,Ford Escape,2012,32.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Bạc
+730,Hyundai, Sonata 2.0AT 1996,63 triệu,Hyundai Sonata,1996,200.000 km,Xăng 2.0L,Số sàn,Nhập khẩu,Xanh Dương
+731,Toyota, Vios 1.5G 2008,445 triệu,Toyota Vios,2008,46.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Xanh Dương
+732,Toyota, Yaris G 2014,625 triệu,Toyota Yaris,2014,6.000 km,Xăng ,Tự động,Nhập khẩu,Bạc
+733,Toyota, Land Cruiser 2 1990,190 triệu,Toyota Land Cruiser,1990,100.000 km,Diesel 2.4L,Số sàn,Nhập khẩu,Bạc
+734,Chery, QQ3 MT 2009,52 triệu,,2009,200.000 km,Xăng ,Số sàn,Nhập khẩu,Bạc
+735,Mazda, 3S 1.6AT 2014,595 triệu,Mazda 3,2014,20.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Bạc
+736,Honda, Civic 1.8MT 2008,385 triệu,Honda Civic,2008,85.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Xanh Dương
+737,BYD, F0 MT 2011,119 triệu,Ford Explorer,2011,180.000 km,Xăng ,Số sàn,Nhập khẩu,Trắng
+738,Honda, Civic 1.8AT 2010,485 triệu,Honda Civic,2010,62.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+739,Ford, Everest MT 2012,670 triệu,Ford Everest,2012,80.000 km,Diesel ,Số sàn,Lắp ráp trong nước,Đen
+740,Honda, CR-V 2.4AT 2014,930 triệu,Honda CR-V,2014,37.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Nâu
+741,BMW, Series 5 528i 2015,"1,880 tỷ",BMW Series 5,2015,33.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+742,Honda, CR-V 2.4AT 2011,739 triệu,Honda CR-V,2010,60.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+743,Toyota, Camry E 2.0AT 2011,790 triệu,Toyota Camry,2011,100.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Trắng
+744,Ford, Transit 2.4MT 2013,655 triệu,Ford Transit,2013,80.000 km,Diesel 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+745,Ford, Everest 2.6MT 2007,385 triệu,Ford Everest,2007,71.000 km,Xăng 2.6L,Số sàn,Lắp ráp trong nước,Đen
+746,Toyota, Highlander LE 2.7AT 2011,"1,490 tỷ",Toyota Highlander,2011,68.000 km,Xăng 2.7L,Tự động,Nhập khẩu,Ghi xám
+747,Audi, Q5 2.0AT 2012,"1,650 tỷ",Audi Q5,2012,47.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+748,Chevrolet, Spark Van 1.0AT 2013,230 triệu,Chevrolet Spark Van,2013,20.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Trắng
+749,Mazda, CX-9 3.7AT 2012,"1,166 tỷ",Mazda CX-9,2012,50.000 km,Xăng 3.7L,Tự động,Nhập khẩu,Xanh Đen
+750,Ford, Laser 1.8MT 2001,255 triệu,Ford Laser,2001,45.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Xanh lá
+751,Ford, Escape 3.0AT 2004,273 triệu,Ford Escape,2004,77.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đỏ
+752,Ford, Fiesta 1.6AT 2012,440 triệu,Ford Fiesta,2012,34.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Đỏ
+753,Ford, Mondeo 2.5AT 2003,243 triệu,Ford Mondeo,2003,82.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+754,Ford, Escape 3.0AT 2005,282 triệu,Ford Escape,2005,87.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Trắng
+755,Ford, Everest 2.5AT 2010,580 triệu,Ford Everest,2010,57.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Đen
+756,Ford, Mondeo 2.5AT 2005,275 triệu,Ford Mondeo,2005,12.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+757,Ford, Focus 1.8AT 2011,452 triệu,Ford Focus,2011,42.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+758,Ford, Ranger 2.2AT 2013,518 triệu,Ford Ranger,2013,47.000 km,Diesel 2.2L,Tự động,Nhập khẩu,Xanh Đen
+759,Ford, Escape 3.0AT 2004,275 triệu,Ford Escape,2004,115.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+760,Ford, Laser 1.8AT 2005,295 triệu,Ford Laser,2005,63.000 km,Xăng 1.8L,Tự động,Nhập khẩu,Đen
+761,Ford, Ranger 2.5MT 2009,355 triệu,Ford Ranger,2009,110.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Đen
+762,Ford, Escape 2.3AT 2009,485 triệu,Ford Escape,2009,90.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Bạc
+763,Ford, Mondeo 2.0AT 2003,276 triệu,Ford Mondeo,2003,15.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+764,Ford, Mondeo 2.0AT 2003,245 triệu,Ford Mondeo,2003,100.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+765,Ford, Everest 2.5AT 2009,565 triệu,Ford Everest,2009,86.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Đen
+766,Ford, EcoSport 1.5AT 2016,608 triệu,Ford EcoSport,2016,11.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Ghi xám
+767,Toyota, Fortuner G 2.5MT 2011,723 triệu,Toyota Fortuner,2011,75.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+768,Toyota, Camry G 2.4AT 2008,670 triệu,Toyota Camry,2008,80.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+769,Chevrolet, Cruze 1.6MT 2016,520 triệu,Chevrolet Cruze  ,2016,7.800 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Vàng cát
+770,Lexus, RX350 F-Sport 3.5AT 2016,"4,200 tỷ",Lexus RX,2016,9.600 km,Xăng 3.5L,Tự động,Nhập khẩu,Đen
+771,KIA, Morning Van 1.0AT 2010,210 triệu,Kia Morning,2010,58.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Bạc
+772,Mercedes-Benz, GLA250 4Matic 2015,"1,500 tỷ",Mercedes-Benz GLA-Class,2015,4.111 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Nâu
+773,Toyota, Fortuner G 2.5MT 2011,768 triệu,Toyota Fortuner,2011,65.000 km,Xăng 2.5L,Số sàn,Lắp ráp trong nước,Đen
+774,Toyota, Fortuner V 2.7AT 2013,845 triệu,Toyota Fortuner,2013,40.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Ghi xám
+775,Toyota, Corolla Altis G 1.8AT 2009,555 triệu,Toyota Altis,2009,50.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+776,Chevrolet, Cruze LS 1.6MT 2015,510 triệu,Chevrolet Cruze  ,2015,7.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+777,Chevrolet, Cruze LTZ 1.8AT 2012,492 triệu,Chevrolet Cruze  ,2012,25.600 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+778,Chevrolet, Cruze 1.6MT 2015,495 triệu,Chevrolet Cruze  ,2015,28.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Bạc
+779,Chevrolet, Cruze LTZ 1.8AT 2015,575 triệu,Chevrolet Cruze  ,2015,12.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Trắng
+780,Toyota, Camry LE 2.5AT 2010,860 triệu,Toyota Camry,2010,90.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+781,Chevrolet, Spark Van 1.0AT 2012	,212 triệu,Chevrolet Spark Van,2012,200.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Bạc
+782,Lexus, RX 350 3.5AT 2010 ,"1,990 tỷ",Lexus RX,2010,42.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Trắng
+783,Toyota, Sienna 3.5LE 2010,"1,680 tỷ",Toyota Sienna,2010,45.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Ghi xám
+784,Honda, CR-V 2.0AT 2014 ,910 triệu,Honda CR-V,2014,30.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+785,Toyota, Camry SE 2016,"1,650 tỷ",Toyota Camry,2016,7.000 km,Xăng ,Tự động,Nhập khẩu,Đen
+786,Toyota, Land Cruiser VX 2016,"3,600 tỷ",Toyota Land Cruiser,2016,7.000 km,Xăng ,Tự động,Nhập khẩu,Đen
+787,Hyundai, i10 1.0MT 2014,360 triệu,Hyundai i10,2014,35.000 km,Xăng 1.0L,Số sàn,Lắp ráp trong nước,Bạc
+788,Toyota, Vios E 2012,460 triệu,Toyota Vios,2012,55.000 km,Xăng ,Số sàn,Lắp ráp trong nước,Bạc
+789,Hyundai, Santafe 4WD 2.4AT 2014,"1,100 tỷ",Hyundai Santafe,2014,25.150 km,Xăng 2.4L,Tự động,Nhập khẩu,Đen
+790,Chevrolet, Cruze 1.6MT 2015,495 triệu,Chevrolet Cruze  ,2015,29.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+791,Chevrolet, Cruze LTZ 1.8AT 2015,575 triệu,Chevrolet Cruze  ,2015,12.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Trắng
+792,Ford, Laser 1.6MT 2002,165 triệu,Ford Laser,2002,500.000 km,Xăng 1.6L,Số sàn,Nhập khẩu,Xanh lá
+793,Ford, Escape 3.0AT 2004,230 triệu,Ford Escape,2004,85.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+794,Ford, Laser 1.8MT 2002,235 triệu,Ford Laser,2002,120.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Xanh lá
+795,Toyota, Vios E 1.5MT 2010,438 triệu,Toyota Vios,2010,80.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Bạc
+796,Mercedes-Benz, GLK220 2.2AT 2013,"1,260 tỷ",Mercedes-Benz GLK-class,2013,60.100 km,Diesel 2.2L,Tự động,Lắp ráp trong nước,Trắng
+797,Chevrolet, Captiva LTZ 2.4AT 2016,695 triệu,Chevrolet Captiva,2016,22.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Trắng
+798,Chevrolet, Cruze LS 1.6MT 2011,385 triệu,Chevrolet Cruze  ,2011,60.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+799,Chevrolet, Lacetti 1.6MT 2012,348 triệu,Chevrolet Cruze / Lacetti,2012,34.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+800,Chevrolet, Cruze LS 1.6MT 2012,420 triệu,Chevrolet Cruze  ,2012,37.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Bạc
+801,Chevrolet, Captiva LTZ 2.4AT 2009,465 triệu,Chevrolet Captiva,2009,4.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+802,Mercedes-Benz, C-class C200 1.8AT 2011,850 triệu,Mercedes-Benz C-class,2011,60.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Trắng
+803,Toyota, Fortuner 2.5MT 2011,740 triệu,Toyota Fortuner,2011,86.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Ghi xám
+804,Daewoo, Lacetti 1.6MT 2010,390 triệu,Ford Explorer,2010,50.000 km,Xăng 1.6L,Số sàn,Nhập khẩu,Đen
+805,Suzuki, Ertiga 1.4AT 2016,565 triệu,Suzuki Ertiga,2016,7.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Xanh Dương
+806,KIA, Carens 2.0AT 2011,468 triệu,KIA Carens,2011,40.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+807,KIA, Morning 1.0AT 2015,330 triệu,Kia Morning,2015,10.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Bạc
+808,Mercedes-Benz, C-Class C300 AMG Plus 2013,"1,050 tỷ",Mercedes-Benz C-class,2012,35.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+809,Audi, A6 3.0AT 2011,"1,500 tỷ",Audi A6,2010,52.000 km,Xăng 3.0L,Tự động,Nhập khẩu,Đỏ đô
+810,Honda, City 1.5AT 2009,450 triệu,Honda City,2009,54.000 km,Xăng 1.5L,Tự động,Nhập khẩu,Xanh Dương
+811,Honda, City 1.5CVT 2016,570 triệu,Honda City,2016,16.000 km,Xăng 1.5L,Vô cấp,Lắp ráp trong nước,Đỏ đô
+812,Honda, Civic 1.8AT 2007 ,390 triệu,Honda Civic,2007,81.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+813,Honda, Civic 1.8AT 2006 ,385 triệu,Honda Civic,2006,103.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+814,Honda, City 1.5CVT 2016,594 triệu,Honda City,2016,16.500 km,Xăng 1.5L,Vô cấp,Lắp ráp trong nước,Đỏ đô
+815,Honda, CR-V 2.4AT 2009 ,660 triệu,Honda CR-V,2009,130.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Ghi xám
+816,Toyota, Innova G 2.0AT 2014,719 triệu,Toyota Innova,2014,56.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+817,Toyota, Camry Q 3.5AT 2008,695 triệu,Toyota Camry,2008,45.000 km,Xăng 3.5L,Tự động,Lắp ráp trong nước,Đen
+818,Honda, Civic 2.0AT 2010,530 triệu,Honda Civic,2010,46.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Vàng cát
+819,Honda, Civic 1.8MT 2008,405 triệu,Honda Civic,2008,55.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+820,Ford, Escape 2.3AT 2005,295 triệu,Ford Escape,2005,120.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Vàng cát
+821,Ford, Escape 2.3AT 2014,660 triệu,Ford Escape,2014,38.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Bạc
+822,Ford, Everest 2.5AT 2010,610 triệu,Ford Everest,2010,59.000 km,Diesel 2.5L,Tự động,Nhập khẩu,Bạc
+823,Ford, Ranger 2.2MT 2013,438 triệu,Ford Ranger,2013,97.000 km,Diesel 2.2L,Số sàn,Nhập khẩu,Xanh Dương
+824,Ford, Mondeo 2.5AT 2004,280 triệu,Ford Mondeo,2007,68.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+825,Ford, Escape 2.3AT 2012,545 triệu,Ford Escape,2012,33.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Bạc
+826,Ford, Escape 2.3AT 2010,510 triệu,Ford Escape,2010,97.000 km,Xăng 2.3L,Tự động,Nhập khẩu,Bạc
+827,Ford, Ranger 3.2AT 2014,675 triệu,Ford Ranger,2014,58.000 km,Diesel 3.2L,Tự động,Nhập khẩu,Đen
+828,Ford, Escape 3.0AT 2004,278 triệu,Ford Escape,2004,77.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đỏ
+829,Ford, Everest 2.5MT 2008,455 triệu,Ford Everest,2008,90.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Hồng phấn
+830,Ford, Ranger 2.2MT 2012,400 triệu,Ford Ranger,2012,50.000 km,Diesel 2.2L,Số sàn,Nhập khẩu,Đen
+831,Hyundai, Getz 1.2MT 2009,240 triệu,Hyundai Getz,2009,80.000 km,Xăng 1.2L,Số sàn,Nhập khẩu,Xanh Dương
+832,Ford, Focus 2.0AT 2014,680 triệu,Ford Focus,2014,28.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đỏ
+833,Mercedes-Benz, GLA-Class 1.6AT 2015,"1,420 tỷ",Mercedes-Benz GLA-Class,2015,15.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Đen
+834,KIA, Cerato 1.6AT 2011,520 triệu,Kia Cerato,2011,50.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Đen
+835,Toyota, Innova 2.0MT 2006,435 triệu,Toyota Innova,2006,79.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Đen
+836,MINI, Cooper BaysWater 1.6AT 2014,"1,080 tỷ",MINI Cooper,2014,2.500 km,Xăng 1.6L,Tự động,Nhập khẩu,Xanh Dương
+837,Lexus, RX350 3.5AT 2012,"2,800 tỷ",Lexus RX,2012,45.000 km,Xăng 3.5L,Tự động,Nhập khẩu,Vàng cát
+838,Toyota, Vios 1.5E CVT 2017,588 triệu,Toyota Vios,2017,0,Xăng 1.5L,Vô cấp,Lắp ráp trong nước,Vàng cát
+839,Toyota, Fortuner 2.7V 4x4 2017,"1,308 tỷ",Toyota Fortuner,2017,0,Xăng 2.7L,Tự động,Nhập khẩu,Nâu
+840,Toyota, Yaris E CVT 2017,592 triệu,Toyota Yaris,2017,0,Xăng 1.5L,Vô cấp,Nhập khẩu,Đỏ
+841,Toyota, Yaris G CVT 2017,642 triệu,Toyota Yaris,2017,0,Xăng 1.5L,Vô cấp,Nhập khẩu,Trắng
+842,BMW, 320i 2.0AT 2013,"1,100 tỷ",BMW Series 3,2013,50.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+843,Mercedes-Benz, E250 AMG 2.0AT 2015,"1,890 tỷ",Mercedes-Benz E-class,2015,18.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+844,Lexus, GS350 V6 3.5AT 2006,919 triệu,Lexus GS,2006,60.000 km,Xăng 3.5L,Tự động,Lắp ráp trong nước,Đen
+845,KIA, Sedona Limited 3.3AT 2016,"1,256 tỷ",KIA Sedona,2016,6.543 km,Xăng 3.3L,Tự động,Lắp ráp trong nước,Đen
+846,Mercedes-Benz, E250 CGI 1.8AT 2009,930 triệu,Mercedes-Benz E-class,2009,80.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+847,Audi, Q5 2.0T Quattro 2011,"1,350 tỷ",Audi Q5,2011,27.000 km,Xăng 2.0,Tự động,Nhập khẩu,Trắng
+848,Chevrolet, Spark LTZ 1.0AT 2014,325 triệu,Chevrolet Spark,2014,24.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Bạc
+849,Chevrolet, Captiva LTZ 2.4AT 2015,695 triệu,Chevrolet Captiva,2015,22.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Trắng
+850,Chevrolet, Cruze LT 1.6MT 2015,485 triệu,Chevrolet Cruze  ,2015,29.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+851,Chevrolet, Cruze LS 1.6MT 2015,495 triệu,Chevrolet Cruze  ,2015,10.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đỏ
+852,KIA, Morning 1.0AT 2011,299 triệu,Kia Morning,2011,50.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Vàng
+853,KIA, Morning Si 1.25AT 2015,385 triệu,Kia Morning,2015,15.000 km,Xăng 1.25L,Tự động,Lắp ráp trong nước,Đỏ
+854,KIA, Carnival 2.4AT 2009,359 triệu,KIA Carnival,2009,80.500 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+855,KIA, Cerato Koup 2.0AT 2010,486 triệu,Kia Cerato,2010,60.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Ghi xám
+856,KIA, Carens SX 2.0AT 2013,495 triệu,KIA Carens,2013,55.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Ghi xám
+857,KIA, Morning 1.0MT 2011,345 triệu,Kia Morning,2011,40.000 km,Xăng 1.0L,Số sàn,Nhập khẩu,Ghi xám
+858,KIA, Morning 1.0AT 2011,395 triệu,Kia Morning,2011,36.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Nâu
+859,KIA, K3 1.6AT 2014,575 triệu,KIA K3,2014,35.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Đỏ
+860,Mercedes-Benz, GLE-Class GLE450 AMG 3.0AT 2016,"3,999 tỷ",Mercedes-Benz GLE-Class,2016,13.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Trắng
+861,Mercedes-Benz, S-class S400 3.0AT 2016,"3,500 tỷ",Mercedes-Benz S-class,2016,10.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+862,Toyota, Vios 1.5MT 2012,396 triệu,Toyota Vios,2012,800.000 km,Xăng 1.5L,Số sàn,Lắp ráp trong nước,Vàng cát
+863,KIA, Forte 1.6AT 2013,525 triệu,Kia Forte,2013,60.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Trắng
+864,Chevrolet, Cruze LTZ 1.8AT 2015,560 triệu,Chevrolet Cruze  ,2015,23.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+865,Chevrolet, Captiva LTZ 2.4AT 2008,360 triệu,Chevrolet Captiva,2008,66.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+866,Honda, CR-V 2.4AT 2014,930 triệu,Honda CR-V,2014,20.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+867,KIA, Cerato 1.6AT 2012,530 triệu,Kia Cerato,2012,30.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Đen
+868,Mercedes-Benz, E-class E250 2010,"1,030 tỷ",Mercedes-Benz E-class,2010,40.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+869,Suzuki, Ertiga 1.4AT 2016,560 triệu,Suzuki Ertiga,2016,6.900 km,Xăng 1.4L,Tự động,Nhập khẩu,Xanh da trời
+870,Chevrolet, Spark Dou 1.2MT 2010,138 triệu,Chevrolet Spark Duo,2010,100.000 km,Xăng 1.2L,Số sàn,Lắp ráp trong nước,Trắng
+871,Mercedes-Benz, C-class C300 AMG Plus 2013,"1,050 tỷ",Mercedes-Benz C-class,2013,35.000 km,Xăng 3.0L,Tự động,Lắp ráp trong nước,Đen
+872,Toyota, Corolla Altis G 1.8MT 2009,530 triệu,Toyota Altis,2009,50.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Đen
+873,Toyota, Camry G 2.4AT 2010,770 triệu,Toyota Camry,2010,48.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+874,Toyota, Fortuner V 2.7AT 2016,"1,160 tỷ",Toyota Fortuner,2016,5.000 km,Xăng 2.7L,Tự động,Lắp ráp trong nước,Trắng
+875,Toyota, Camry G 2.4AT 2008,670 triệu,Toyota Camry,2008,80.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+876,Toyota, Camry G 2.4AT 2012,785 triệu,Toyota Camry,2012,45.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+877,Toyota, Corolla Altis 2.0AT 2012,633 triệu,Toyota Altis,2012,57.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+878,Toyota, Camry 2.4MT 2006,465 triệu,Toyota Camry,2006,90.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Đen
+879,Ford, Fiesta Titanium 1.5AT 2015,490 triệu,Ford Fiesta,2015,40.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+880,Nissan, Grand Livina 1.8MT 2012,435 triệu,Nissan Grand Livina,2012,30.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Ghi xám
+881,Mazda, 6 2.5AT 2016,"1,010 tỷ",Mazda 6,2016,8.234 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Trắng
+882,Mercedes-Benz, CLA-Class CLA250 2014,"1,450 tỷ",Mercedes-Benz CLA Class,2014,6.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+883,MINI, Cooper S Countryman 1.6AT 2015,"1,730 tỷ",MINI Cooper,2015,3.990 km,Xăng 1.6L,Tự động,Nhập khẩu,Đỏ
+884,Honda, CR-V 2.0AT 2014,940 triệu,Honda CR-V,2014,2.700 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Trắng
+885,Honda, CR-V 2.4AT 2010,730 triệu,Honda CR-V,2010,60.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Ghi xám
+886,KIA, Cerato 1.6AT 2016 ,655 triệu,Kia Cerato,2016,8.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Trắng
+887,Honda, CR-V 2.4AT 2011,980 triệu,Honda CR-V,2011,35.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+888,Mazda, CX-5 2.0AT 2014 ,845 triệu,Mazda CX-5,2014,34.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đỏ
+889,Honda, CR-V 2.4AT 2008,705 triệu,Honda CR-V,2008,60.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Ghi xám
+890,Honda, CR-V 2.4AT 2015,"1,060 tỷ",Honda CR-V,2015,18.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Trắng
+891,Honda, CR-V 2.4AT 2013,"1,030 tỷ",Honda CR-V,2013,30.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Nâu
+892,Toyota, Camry 2.5Q 2013,"1,100 tỷ",Toyota Camry,2013,48.000 km,Xăng 2.5L,Tự động,Lắp ráp trong nước,Đen
+893,KIA, Morning Si 1.25AT 2015,385 triệu,Kia Morning,2015,15.000 km,Xăng 1.25L,Tự động,Lắp ráp trong nước,Đỏ
+894,KIA, Rio 1.4MT 2016,485 triệu,KIA Rio,2016,19.000 km,Xăng 1.4L,Số sàn,Lắp ráp trong nước,Bạc
+895,Nissan, Teana 2.0AT 2013,728 triệu,Nissan Teana,2013,40.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+896,KIA, Morning 1.0AT 2014,450 triệu,Kia Morning,2014,12.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Đỏ đô
+897,Hyundai, Avante 1.6MT 2011,420 triệu,Hyundai Avante,2011,50.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+898,Daewoo, Magnus 2.0AT 2007,159 triệu,,2007,15.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+899,BMW, 7 Series 730Li 2016,"3,720 tỷ",BMW Series 7,2016,10.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Đen
+900,Toyota, Vios 1.5AT 2011,470 triệu,Toyota Vios,2011,70.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Vàng cát
+901,Ford, Focus 2.0AT 2014,670 triệu,Ford Focus,2014,30.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+902,Ford, Focus 1.8AT 2009,450 triệu,Ford Focus,2009,43.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Trắng
+903,Hyundai, Veloster 1.6AT 2011,567 triệu,Hyundai Veloster,2011,33.269 km,Xăng 1.6L,Tự động,Nhập khẩu,Đỏ
+904,Daewoo, Lacetti 1.6MT 2011,300 triệu,,2011,70.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+905,Chevrolet, Cruze LS 1.6MT 2012,415 triệu,Chevrolet Cruze  ,2012,36.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+906,Chevrolet, Aveo LTZ 1.5AT 2014,415 triệu,Chevrolet Aveo,2014,20.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Đen
+907,Chevrolet, Cruze LTZ 1.8AT 2012,465 triệu,Chevrolet Cruze  ,2012,61.500 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+908,Chevrolet, Aveo LTZ 1.5AT 2014,425 triệu,Chevrolet Aveo,2014,36.400 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Vàng cát
+909,Chevrolet, Vivant CDX 2.0MT 2008,282 triệu,Chevrolet Vivant ,2008,91.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Vàng cát
+910,Chevrolet, Cruze LS 1.6MT 2015,495 triệu,Chevrolet Cruze  ,2015,37.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Vàng cát
+911,Chevrolet, Captiva 2.4AT 2008,385 triệu,Chevrolet Captiva,2008,50.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+912,Chevrolet, Cruze LTZ 1.8AT 2015,585 triệu,Chevrolet Cruze  ,2015,15.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Trắng
+913,Chevrolet, Vivant 2.0AT 2008,298 triệu,Chevrolet Vivant ,2008,89.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Vàng cát
+914,Chevrolet, Daewoo Lacetti CDX 1.6AT 2010,420 triệu,Chevrolet Cruze / Lacetti,2010,72.000 km,Xăng 1.6L,Tự động,Nhập khẩu,Bạc
+915,Honda, CR-V 2.4AT 2010,700 triệu,Honda CR-V,2010,55.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Ghi xám
+916,Honda, CR-V 2.4AT 2014,"1,090 tỷ",Honda CR-V,2014,13.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+917,Honda, Civic 1.8MT 2006,438 triệu,Honda Civic,2006,80.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Bạc
+918,Honda, CR-V 2.4AT 2014,"1,090 tỷ",Honda CR-V,2014,30.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+919,Honda, CR-V 2.4AT 2013,770 triệu,Honda CR-V,2013,44.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Xanh lá
+920,Honda, Civic 2.0AT 2010,545 triệu,Honda Civic,2010,85.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Bạc
+921,Honda, CR-V 2.4AT 2009 ,720 triệu,Honda CR-V,2009,48.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Ghi xám
+922,Honda, Civic 1.8MT 2010,440 triệu,Honda Civic,2010,65.000 km,Xăng 1.8L,Số sàn,Lắp ráp trong nước,Ghi xám
+923,Honda, CR-V 2.4AT 2014,980 triệu,Honda CR-V,2014,20.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+924,Honda, Civic 1.8AT 2011,560 triệu,Honda Civic,2011,35.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Trắng
+925,Honda, Accord 2.4AT 2006,560 triệu,Honda Accord,2006,39.000 km,Xăng 2.4L,Tự động,Nhập khẩu,Xanh Dương
+926,Honda, CR-V 2.0AT 2009,665 triệu,Honda CR-V,2009,100.000 km,Xăng 2.0L,Tự động,Nhập khẩu,Ghi xám
+927,Ford, Everest 2.5AT 2014,785 triệu,Ford Everest,2014,14.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Vàng cát
+928,Ford, Focus 1.8AT 2012,490 triệu,Ford Focus,2012,38.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đỏ
+929,Ford, Mondeo 2.0AT 2004,308 triệu,Ford Mondeo,2004,110.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Đen
+930,Ford, Ranger 2.2MT 2007,295 triệu,Ford Ranger,2007,90.000 km,Diesel 2.2L,Số sàn,Lắp ráp trong nước,Trắng
+931,Ford, Ranger 2.2MT 2013,449 triệu,Ford Ranger,2013,64.000 km,Diesel 2.2L,Số sàn,Nhập khẩu,Bạc
+932,Ford, Fiesta 1.6AT 2013,480 triệu,Ford Fiesta,2013,44.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Trắng
+933,Ford, Focus 1.8AT 2009,420 triệu,Ford Focus,2009,38.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+934,Ford, Ranger 2.2MT 2003,210 triệu,Ford Ranger,2003,87.000 km,Diesel 2.2L,Số sàn,Lắp ráp trong nước,Đỏ
+935,Ford, Everest 2.5MT 2008,460 triệu,Ford Everest,2008,90.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+936,Ford, Everest 2.5MT 2010,590 triệu,Ford Everest,2010,70.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+937,Ford, Ranger 2.2AT 2014,570 triệu,Ford Ranger,2014,30.000 km,Diesel 2.2L,Tự động,Nhập khẩu,Vàng cát
+938,Ford, Everest 2.5AT 2011,660 triệu,Ford Everest,2011,34.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Ghi xám
+939,Ford, Fiesta 1.6AT 2012,450 triệu,Ford Fiesta,2012,32.000 km,Xăng 1.6L,Tự động,Lắp ráp trong nước,Trắng
+940,Ford, Ranger XLT MT 2002,215 triệu,Ford Ranger,2002,97.000 km,Diesel ,Số sàn,Lắp ráp trong nước,Trắng
+941,Ford, Everest 2.5MT 2009,550 triệu,Ford Everest,2009,83.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Đen
+942,Ford, Mondeo 2.3AT 2010,480 triệu,Ford Mondeo,2010,93.000 km,Xăng 2.3L,Tự động,Lắp ráp trong nước,Đen
+943,Ford, Everest 2.5AT 2009,575 triệu,Ford Everest,2009,58.000 km,Diesel 2.5L,Tự động,Lắp ráp trong nước,Đen
+944,Ford, Everest 2.5MT 2008,765 triệu,Ford Everest,2008,95.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+945,Ford, Everest 2.5MT 2015,795 triệu,Ford Everest,2015,25.000 km,Diesel 2.5L,Số sàn,Lắp ráp trong nước,Bạc
+946,KIA, Morning SLX 1.0MT 2008,240 triệu,Kia Morning,2008,50.000 km,Xăng 1.0L,Số sàn,Nhập khẩu,Bạc
+947,KIA, Rio 1.4AT 2015,565 triệu,KIA Rio,2015,23.000 km,Xăng 1.4L,Tự động,Nhập khẩu,Đen
+948,KIA, Morning SLX 1.0AT 2010,298 triệu,Kia Morning,2010,75.000 km,Xăng 1.0L,Tự động,Nhập khẩu,Ghi xám
+949,KIA, Morning 1.0AT 2011,295 triệu,Kia Morning,2011,32.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Đỏ
+950,Mitsubishi, Jolie 2.0MT 2001,145 triệu,Mitsubishi Jolie,2001,90.000 km,Xăng 2.0L,Số sàn,Lắp ráp trong nước,Đen
+951,Mitsubishi, Grandis 2.4AT 2009,610 triệu,Mitsubishi Grandis,2009,65.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+952,Mitsubishi, Grandis 2.4AT 2005,360 triệu,Mitsubishi Grandis,2005,85.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Trắng
+953,Mitsubishi, Jolie 2.0MT 2004,219 triệu,Mitsubishi Jolie,2004,90.000 km,Diesel 2.0L,Số sàn,Nhập khẩu,Bạc
+954,Mitsubishi, Jolie 2.0MT 2004,200 triệu,Mitsubishi Jolie,2004,79.000 km,Diesel 2.0L,Số sàn,Nhập khẩu,Bạc
+955,Mitsubishi, Jolie 2.0MT 2003,175 triệu,Mitsubishi Jolie,2003,200.000 km,Diesel 2.0L,Số sàn,Lắp ráp trong nước,Đen
+956,Mitsubishi, Lancer Gala 2.0AT 2007,475 triệu,Mitsubishi Lancer Gala,2007,95.000 km,Xăng 2.0L,Tự động,Lắp ráp trong nước,Ghi xám
+957,Mitsubishi, Pajero Sport 3.0AT 2014,808 triệu,Mitsubishi Pajero Sport,2014,31.000 km,Diesel 3.0L,Tự động,Lắp ráp trong nước,Trắng
+958,Mitsubishi, Grandis 2.4AT 2008,599 triệu,Mitsubishi Grandis,2008,65.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+959,Mitsubishi, Grandis 2.4AT 2009,570 triệu,Mitsubishi Grandis,2009,85.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+960,Mitsubishi, Grandis 2.4AT 2008,630 triệu,Mitsubishi Grandis,2008,75.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+961,Isuzu, D-Max LS 2.5AT 2015,590 triệu,Isuzu D-Max,2015,10.000 km,Diesel 2.5L,Tự động,Nhập khẩu,Ghi xám
+962,Mitsubishi, Grandis 2.4AT 2010,630 triệu,Mitsubishi Grandis,2010,42.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+963,Nissan, Grand Livina 1.6MT 2012,435 triệu,Nissan Grand Livina,2012,32.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Ghi xám
+964,Nissan,  Navara NP300 SL 2.5MT 2015,615 triệu,Nissan Navara,2015,24.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Nâu
+965,Nissan, Navara LE 2.5MT 2013,485 triệu,Nissan Navara,2013,40.000 km,Diesel 2.5L,Số sàn,Nhập khẩu,Ghi xám
+966,Nissan, 370Z 3.7AT 2009,"1,000 tỷ",Nissan 370Z,2009,29.000 km,Xăng 3.7L,Tự động,Nhập khẩu,Vàng
+967,Nissan, Sunny XV 1.5AT 2016,544 triệu,Nissan Sunny,2016,16.000 km,Xăng 1.5L,Tự động,Lắp ráp trong nước,Trắng
+968,Honda, Civic 1.8AT 2009,495 triệu,Honda Civic,2009,55.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đen
+969,Honda, Civic 1.8AT 2010,450 triệu,Honda Civic,2010,90.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Đỏ
+970,Toyota, Highlander LE 2016,"2,367 tỷ",Toyota Highlander,2016,3 km,Xăng 2.7L,Tự động,Nhập khẩu,Trắng
+971,Chevrolet, Captiva LTZ 2.4AT 2009,485 triệu,Chevrolet Captiva,2009,60.000 km,Diesel 2.4L,Tự động,Lắp ráp trong nước,Đen
+972,Chevrolet, Captiva 2.4MT 2010,466 triệu,Chevrolet Captiva,2010,56.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+973,Chevrolet, Cruze LS 1.6MT 2011,415 triệu,Chevrolet Cruze  ,2011,40.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Vàng cát
+974,Chevrolet, Captiva LTZ 2.4AT 2009,465 triệu,Chevrolet Captiva,2009,55.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Bạc
+975,Chevrolet, Captiva 2.4MT 2007,340 triệu,Chevrolet Captiva,2007,84.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+976,Chevrolet, Cruze LS 1.6MT 2014,448 triệu,Chevrolet Cruze  ,2014,43.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Đen
+977,Chevrolet, Cruze LS 1.6MT 2011,399 triệu,Chevrolet Cruze  ,2011,56.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Trắng
+978,Chevrolet, Cruze LS 1.6MT 2011,405 triệu,Chevrolet Cruze  ,2011,63.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Vàng cát
+979,Chevrolet, Captiva 2.4MT 2008,350 triệu,Chevrolet Captiva,2008,92.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Bạc
+980,Chevrolet, Spark LTZ 1.0AT 2013,310 triệu,Chevrolet Spark,2013,33.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Trắng
+981,Chevrolet, Spark LTZ Sport 1.0AT 2014,329 triệu,Chevrolet Spark,2014,30.000 km,Xăng 1.0L,Tự động,Lắp ráp trong nước,Đỏ
+982,Chevrolet, Orlando LTZ 1.8AT 2016,780 triệu,Chevrolet Orlando,2016,5.000 km,Xăng 1.8L,Tự động,Lắp ráp trong nước,Bạc
+983,Chevrolet, Chervolet Captiva LTZ 2.4AT 2015,735 triệu,Chevrolet Captiva,2015,22.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Trắng
+984,Chevrolet, Cruze LT 1.6MT 2015,475 triệu,Chevrolet Cruze  ,2015,25.000 km,Xăng 1.6L,Số sàn,Lắp ráp trong nước,Trắng
+985,Ford, Ranger XLS 2015 ,595 triệu,Ford Ranger,2015,28.000 km,Xăng ,Tự động,Lắp ráp trong nước,Bạc
+986,Mercedes-Benz, C-class C200 2.0AT 2015,"1,309 tỷ",Mercedes-Benz C-class,2015,18.000 km,Xăng 2.0L ,Tự động,Lắp ráp trong nước,Trắng
+987,Chevrolet, Captiva 2.4AT 2008,438 triệu,Chevrolet Captiva,2008,47.000 km,Xăng 2.4L,Tự động,Lắp ráp trong nước,Đen
+988,Chevrolet, Captiva LT 2.4MT 2008,430 triệu,Chevrolet Captiva,2008,40.000 km,Xăng 2.4L,Số sàn,Lắp ráp trong nước,Đen
+989,Chevrolet, Spark LS 1.2MT 2010,139 triệu,Chevrolet Spark,2010,108.000 km,Xăng 1.2L,Số sàn,Lắp ráp trong nước,Xanh lá
